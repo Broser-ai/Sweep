@@ -1,0 +1,208 @@
+{
+  "scripts": [
+    {
+      "src": "",
+      "type": "text/javascript",
+      "inline": "(function(){const GTM_CODE = \"GTM-MKL4GSS\";\n\n  (function (w, d, s, l, i) {\n    w[l] = w[l] || [];\n    w[l].push({ 'gtm.start': Date.now(), event: 'gtm.js' });\n    const f = d.getElementsByTagName(s)[0];\n    const j = d.createElement(s);\n    const dl = l !== 'dataLayer' ? `&l=${l}` : '';\n    j.async = true;\n    j.src = `https://www.googletagmanager.com/gtm.js?id=${i}${dl}`;\n    f.parentNode.insertBefore(j, f);\n  })(window, document, 'script', 'dataLayer', GTM_CODE);\n})();"
+    },
+    {
+      "src": "",
+      "type": "application/ld+json",
+      "inline": "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https://www.sweep.net/fr/reporting-esg#webpage\",\"url\":\"https://www.sweep.net/fr/reporting-esg/\",\"name\":\"Simplifiez votre reporting ESG - Sweep\",\"isPartOf\":{\"@id\":\"https://www.sweep.net/#website\"},\"datePublished\":\"2026-05-29T13:41:06+00:00\",\"dateModified\":\"2026-06-17T13:15:19+00:00\",\"description\":\"Automatisez votre reporting ESG avec Sweep : rapports conformes CSRD, Bilan Carbone, CDP, GRI, ISSB. Demandez une d\\u00e9mo.\",\"breadcrumb\":{\"@id\":\"https://www.sweep.net/fr/reporting-esg/#breadcrumb\"},\"inLanguage\":\"fr-FR\",\"about\":{\"@id\":\"https://www.sweep.net/#organization\"}},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://www.sweep.net/fr/reporting-esg/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://www.sweep.net/fr/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Simplifiez votre reporting ESG\",\"item\":\"https://www.sweep.net/fr/reporting-esg/\"}]},{\"@type\":\"WebSite\",\"@id\":\"https://www.sweep.net/#website\",\"url\":\"https://www.sweep.net/\",\"name\":\"Sweep\",\"description\":\"Sweep turns sustainability data into business intelligence. Sweep&#039;s AI-powered platform helps enterprises with ESG reporting and carbon management.\",\"publisher\":{\"@id\":\"https://www.sweep.net/#organization\"},\"alternateName\":\"SWEEP\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://www.sweep.net/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"fr-FR\"},{\"@type\":\"Organization\",\"@id\":\"https://www.sweep.net/#organization\",\"name\":\"Sweep\",\"alternateName\":\"Sweep - Sustainability Intelligence Platform\",\"url\":\"https://www.sweep.net/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"fr-FR\",\"@id\":\"https://www.sweep.net/#/schema/logo/image/\",\"url\":\"https://www.sweep.net/app/uploads/2025/06/Frame13213151372-e1761820204758.png\",\"contentUrl\":\"https://www.sweep.net/app/uploads/2025/06/Frame13213151372-e1761820204758.png\",\"width\":293,\"height\":100,\"caption\":\"Sweep\"},\"image\":{\"@id\":\"https://www.sweep.net/#/schema/logo/image/\"},\"sameAs\":[\"https://www.linkedin.com/company/sweep-softwareforsustainability\",\"https://www.youtube.com/@SweepThePlanet\"],\"contactPoint\":{\"@type\":\"ContactPoint\",\"email\":\"hello@sweep.net\"},\"address\":{\"@type\":\"PostalAddress\",\"streetAddress\":\"FLEXO \\u2013 80 Rue Isabelle Eberhardt\",\"postalCode\":\"34000\",\"addressLocality\":\"Montpellier\",\"addressCountry\":\"FR\"},\"description\":\"Sweep is the sustainability intelligence platform that turns sustainability data into measurable business performance.\",\"email\":\"hello@sweep.net\",\"legalName\":\"Sweep SAS\",\"foundingDate\":\"2020-09-01\",\"vatID\":\"FR85883967879\",\"numberOfEmployees\":{\"@type\":\"QuantitativeValue\",\"minValue\":\"201\",\"maxValue\":\"500\"},\"ownershipFundingInfo\":\"https://www.sweep.net/about/\"},{\"@type\":\"FAQPage\",\"@id\":\"https://www.sweep.net/fr/reporting-esg#faq\",\"mainEntity\":[{\"@type\":\"Question\",\"name\":\"Qu&#039;est-ce qu&#039;un logiciel de reporting ESG, et pourquoi les organisations en ont-elles besoin ?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Le reporting ESG est le processus par lequel les entreprises publient leurs donn\\u00e9es environnementales, sociales et de gouvernance dans leurs rapports financiers, visant \\u00e0 am\\u00e9liorer la transparence pour les investisseurs et les parties prenantes. Un logiciel de reporting ESG est une plateforme de gestion qui permet aux organisations de collecter, centraliser, analyser et publier ces donn\\u00e9es de mani\\u00e8re structur\\u00e9e et auditable.\\nLes logiciels ESG simplifient le processus de gestion des donn\\u00e9es de durabilit\\u00e9 et aident les entreprises \\u00e0 se conformer aux exigences r\\u00e9glementaires, tout en am\\u00e9liorant la transparence de leurs efforts. Ils permettent d&#8217;automatiser la collecte, l&#8217;analyse et le reporting des donn\\u00e9es, ce qui facilite la centralisation des informations et am\\u00e9liore la pr\\u00e9cision des rapports. Les entreprises qui adoptent des solutions technologiques avanc\\u00e9es pour la gestion des donn\\u00e9es ESG peuvent mieux r\\u00e9pondre aux exigences r\\u00e9glementaires et am\\u00e9liorer leur transparence.\\nLe march\\u00e9 des logiciels de reporting ESG conna\\u00eet une croissance substantielle \\u2014 \\u00e9valu\\u00e9 \\u00e0 0,7 milliard de dollars en 2022, il devrait atteindre 1,5 milliard de dollars. En 2026, ce march\\u00e9 est marqu\\u00e9 par l&#8217;automatisation via l&#8217;intelligence artificielle et une int\\u00e9gration croissante avec la comptabilit\\u00e9 financi\\u00e8re, pour r\\u00e9pondre aux exigences de la directive CSRD.\\nLe reporting ESG n&#8217;est plus optionnel. Les principaux moteurs r\\u00e9glementaires :\\n\\nLa CSRD (Corporate Sustainability Reporting Directive), d\\u00e9sormais obligatoire dans l&#8217;Union europ\\u00e9enne, exige des organisations qu&#8217;elles publient leurs performances et impacts ESG selon des normes ESRS standardis\\u00e9es "
+    },
+    {
+      "src": "",
+      "type": "",
+      "inline": "(function(){const TRANSLATIONS = {\"source\":\"Source\",\"all\":\"Tous\",\"customer\":\"Client\",\"home\":\"Home\",\"event\":\"EVENT\",\"blog\":\"Les dernières perspectives des experts de Sweep\",\"pastEvent\":\"ÉVÉNEMENT PASSÉ\",\"readMore\":\"Lire la suite\",\"loadMore\":\"Afficher plus\",\"viewCaseStudy\":\"Lire le cas client\",\"size\":\"Taille\",\"industry\":\"Secteur d'activité\",\"headquarters\":\"Siège\",\"website\":\"Site web\",\"category\":\"Catégorie\",\"company\":\"Entreprise\",\"lastUpdated\":\"Dernière mise à jour\",\"hubspotForm\":{\"defaultPrivacyPolicyText\":\"\\u003cp>DEFAULT PRIVACY POLICY TEXT\\u003c/p>\\n\",\"formMessageThankYou\":\"MERCI POUR VOTRE INTÉRÊT\",\"formSubmissionFailedMessage\":\"ENVOI ÉCHOUÉ\",\"submit\":\"Envoyer\",\"submitting\":\"Envoi en cours\",\"skipThisStep\":\"Skip this step\",\"selectDateAndTime\":\"Sélectionnez la date\"},\"sidebar\":{\"author\":\"Auteur\",\"download\":\"Télécharger\",\"guide\":\"Guide\",\"joinUsLive\":\"Rejoignez-nous à {location}\",\"joinUsOnline\":\"Rejoignez-nous en ligne\",\"register\":\"S'inscrire\",\"tableOfContents\":\"Contenus\"},\"eventInformation\":{\"date\":\"Date\",\"language\":\"Langue\",\"location\":\"Lieu\",\"time\":\"Horaires\"},\"article\":{\"moreCustomerStories\":\"Plus de cas clients\",\"moreEvents\":\"Plus d'événements\",\"moreStories\":\"Plus d'articles\"},\"newsletterSection\":{\"formSuccessMessage\":\"ENVOI REUSSI\",\"signUp\":\"S'inscrire\"},\"error404\":{\"pageTitle\":\"Page non trouvée\"}};\nconst PAGE_TRANSLATIONS = [{\"uri\":\"/sustainability-reporting/\",\"languageName\":\"English\",\"languageCode\":\"en\",\"isCurrent\":false},{\"uri\":\"/fr/reporting-esg/\",\"languageName\":\"French\",\"languageCode\":\"fr\",\"isCurrent\":true},{\"uri\":\"/de/sweep-intelligentes-nachhaltigkeits-reporting/\",\"languageName\":\"German\",\"languageCode\":\"de\",\"isCurrent\":false}];\n\n      // Populate translations in client for React components\n      window.TRANSLATIONS = TRANSLATIONS;\n      window.PAGE_TRANSLATIONS = PAGE_TRANSLATIONS;\n    })();"
+    },
+    {
+      "src": "",
+      "type": "",
+      "inline": "\n      (async function () {\n        const resp = await fetch(document.location.href, { method: 'HEAD' });\n        const headers = Object.fromEntries(resp.headers.entries());\n        const COUNTRY_HEADER_NAME = 'x-geolocation-country';\n        const countryHeader =\n          headers[COUNTRY_HEADER_NAME] &&\n          headers[COUNTRY_HEADER_NAME] !== 'UNKNOWN'\n            ? headers[COUNTRY_HEADER_NAME]\n            : undefined;\n        if (countryHeader) {\n          const html = document.documentElement;\n          const country = countryHeader\n            .trim()\n            .toUpperCase()\n            .replaceAll(' ', '-');\n\n          const style = document.createElement('style');\n          style.innerHTML = ` [data-regionalisation]:not([data-regionalisation~='${country}']){display:none!important}`;\n          html.append(style);\n        }\n      })();\n    "
+    },
+    {
+      "src": "/_astro/Layout.astro_astro_type_script_index_0_lang.rZx_Pqve.js",
+      "type": "module",
+      "inline": ""
+    },
+    {
+      "src": "/_astro/HeaderTopBar.astro_astro_type_script_index_0_lang.CYlzTvMq.js",
+      "type": "module",
+      "inline": ""
+    },
+    {
+      "src": "/_astro/Menu.astro_astro_type_script_index_0_lang.CfVobQKu.js",
+      "type": "module",
+      "inline": ""
+    },
+    {
+      "src": "/_astro/LanguageSwitcher.astro_astro_type_script_index_0_lang.Bv9qTMAS.js",
+      "type": "module",
+      "inline": ""
+    },
+    {
+      "src": "",
+      "type": "module",
+      "inline": "const r=document.querySelectorAll('button[data-action=\"toggle-menu\"]');for(const t of r)t.addEventListener(\"click\",()=>{const o=t.getAttribute(\"aria-controls\"),e=document.getElementById(o??\"\"),n=t.ariaPressed===\"true\",a=n?\"false\":\"true\";t.ariaPressed=a,e&&(e.ariaHidden=n?\"true\":\"false\")});"
+    },
+    {
+      "src": "/_astro/LanguageDialog.astro_astro_type_script_index_0_lang.D0g94lC1.js",
+      "type": "module",
+      "inline": ""
+    },
+    {
+      "src": "/_astro/quotations.astro_astro_type_script_index_0_lang.B1_FoNT4.js",
+      "type": "module",
+      "inline": ""
+    },
+    {
+      "src": "/_astro/LogosCollection.astro_astro_type_script_index_0_lang.BxjtmMa9.js",
+      "type": "module",
+      "inline": ""
+    },
+    {
+      "src": "/_astro/Tabs.astro_astro_type_script_index_0_lang.CxMbDWG4.js",
+      "type": "module",
+      "inline": ""
+    },
+    {
+      "src": "",
+      "type": "module",
+      "inline": "function i(e){const n=e.closest(\".accordion-row\");if(!n)return[];const t=n.parentElement;if(!t)return[];const r=Array.from(t?.children);return r?r.filter(o=>o!==n).map(o=>o.querySelector(\"details\")).filter(Boolean):[]}const l=document.querySelectorAll(\".accordion details\");for(const e of l)e.addEventListener(\"toggle\",()=>{if(e.open){const n=i(e);for(const t of n)t.open=!1}});"
+    }
+  ],
+  "styles": [
+    "@font-face{font-family:MaisonNeue-acc6d63081794627;src:url(\"/_astro/fonts/b63d263538eb5c08.woff2\") format(\"woff2\"), url(\"/_astro/fonts/28e07e20de8c9608.woff\") format(\"woff\");font-display:swap;font-weight:400;font-style:normal;}@font-face{font-family:MaisonNeue-acc6d63081794627;src:url(\"/_astro/fonts/123fab1dee5d0200.woff2\") format(\"woff2\"), url(\"/_astro/fonts/17bda73a4871dcf6.woff\") format(\"woff\");font-display:swap;font-weight:500;font-style:normal;}@font-face{font-family:MaisonNeue-acc6d63081794627;src:url(\"/_astro/fonts/5b3f8264d8aa7fec.woff2\") format(\"woff2\"), url(\"/_astro/fonts/6685f19f7e6b0ce0.woff\") format(\"woff\");font-display:swap;font-weight:700;font-style:normal;}@font-face{font-family:\"MaisonNeue-acc6d63081794627 fallback: Arial\";src:local(\"Arial\");font-display:swap;font-weight:400;font-style:normal;size-adjust:101.1663%;ascent-override:98.0564%;descent-override:33.2127%;line-gap-override:0%;}@font-face{font-family:\"MaisonNeue-acc6d63081794627 fallback: Arial\";src:local(\"Arial\");font-display:swap;font-weight:500;font-style:normal;size-adjust:101.1663%;ascent-override:98.0564%;descent-override:33.2127%;line-gap-override:0%;}@font-face{font-family:\"MaisonNeue-acc6d63081794627 fallback: Arial\";src:local(\"Arial\");font-display:swap;font-weight:700;font-style:normal;size-adjust:101.1663%;ascent-override:98.0564%;descent-override:33.2127%;line-gap-override:0%;}:root{--astro-font-maison-neue:MaisonNeue-acc6d63081794627,\"MaisonNeue-acc6d63081794627 fallback: Arial\",sans-serif;}",
+    "@keyframes modal-video{0%{opacity:0}to{opacity:1}}@keyframes modal-video-inner{0%{transform:translateY(100px)}to{transform:translate(0)}}.modal-video{position:fixed;top:0;left:0;width:100%;height:100%;background-color:#00000080;z-index:1000000;cursor:pointer;opacity:1;animation-timing-function:ease-out;animation-duration:.3s;animation-name:modal-video;-webkit-transition:opacity .3s ease-out;-moz-transition:opacity .3s ease-out;-ms-transition:opacity .3s ease-out;-o-transition:opacity .3s ease-out;transition:opacity .3s ease-out}.modal-video-close{opacity:0}.modal-video-close .modal-video-movie-wrap{-webkit-transform:translate(0,100px);-moz-transform:translate(0,100px);-ms-transform:translate(0,100px);-o-transform:translate(0,100px);transform:translateY(100px)}.modal-video-body{max-width:960px;width:100%;height:100%;margin:0 auto;padding:0 10px;display:flex;justify-content:center;box-sizing:border-box}.modal-video-inner{display:flex;justify-content:center;align-items:center;width:100%;height:100%}@media(orientation:landscape){.modal-video-inner{padding:10px 60px;box-sizing:border-box}}.modal-video-movie-wrap{width:100%;height:0;position:relative;padding-bottom:56.25%;background-color:#333;animation-timing-function:ease-out;animation-duration:.3s;animation-name:modal-video-inner;-webkit-transform:translate(0,0);-moz-transform:translate(0,0);-ms-transform:translate(0,0);-o-transform:translate(0,0);transform:translate(0);-webkit-transition:-webkit-transform .3s ease-out;-moz-transition:-moz-transform .3s ease-out;-ms-transition:-ms-transform .3s ease-out;-o-transition:-o-transform .3s ease-out;transition:transform .3s ease-out}.modal-video-movie-wrap iframe{position:absolute;top:0;left:0;width:100%;height:100%}.modal-video-close-btn{position:absolute;z-index:2;top:-45px;right:0;display:inline-block;width:35px;height:35px;overflow:hidden;border:none;background:transparent}@media(orientation:landscape){.modal-video-close-btn{top:0;right:-45px}}.modal-video-close-btn:before{transform:rotate(45deg)}.modal-video-close-btn:after{transform:rotate(-45deg)}.modal-video-close-btn:before,.modal-video-close-btn:after{content:\"\";position:absolute;height:2px;width:100%;top:50%;left:0;background:#fff;border-radius:5px;margin-top:-6px}\n",
+    ".swiper-slide[data-astro-cid-3ztgcoin]{height:auto}.swiper-pagination[data-astro-cid-3ztgcoin]{margin-top:calc(var(--spacing,.25rem) * 4.5);justify-content:center;gap:calc(var(--spacing,.25rem) * 2.5);--swiper-pagination-color:#283fff;--swiper-pagination-bullet-inactive-color:oklch(70.8% 0 0);--swiper-pagination-bullet-horizontal-gap:.875rem;display:flex;position:static}.swiper-pagination[data-astro-cid-3ztgcoin] .swiper-pagination-bullet{margin:calc(var(--spacing,.25rem) * 0)}@media(min-width:64rem){.container[data-astro-cid-7dqjn4zs]{grid-template-columns:calc(var(--spacing,.25rem) * 131) minmax(0,1fr)}}.swiper[data-astro-cid-fqyhxix2]{overflow:visible}.swiper-slide[data-astro-cid-fqyhxix2]{align-self:stretch;height:auto;display:flex}\n"
+  ],
+  "json_ld": [
+    "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https://www.sweep.net/fr/reporting-esg#webpage\",\"url\":\"https://www.sweep.net/fr/reporting-esg/\",\"name\":\"Simplifiez votre reporting ESG - Sweep\",\"isPartOf\":{\"@id\":\"https://www.sweep.net/#website\"},\"datePublished\":\"2026-05-29T13:41:06+00:00\",\"dateModified\":\"2026-06-17T13:15:19+00:00\",\"description\":\"Automatisez votre reporting ESG avec Sweep : rapports conformes CSRD, Bilan Carbone, CDP, GRI, ISSB. Demandez une d\\u00e9mo.\",\"breadcrumb\":{\"@id\":\"https://www.sweep.net/fr/reporting-esg/#breadcrumb\"},\"inLanguage\":\"fr-FR\",\"about\":{\"@id\":\"https://www.sweep.net/#organization\"}},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://www.sweep.net/fr/reporting-esg/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://www.sweep.net/fr/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Simplifiez votre reporting ESG\",\"item\":\"https://www.sweep.net/fr/reporting-esg/\"}]},{\"@type\":\"WebSite\",\"@id\":\"https://www.sweep.net/#website\",\"url\":\"https://www.sweep.net/\",\"name\":\"Sweep\",\"description\":\"Sweep turns sustainability data into business intelligence. Sweep&#039;s AI-powered platform helps enterprises with ESG reporting and carbon management.\",\"publisher\":{\"@id\":\"https://www.sweep.net/#organization\"},\"alternateName\":\"SWEEP\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://www.sweep.net/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"fr-FR\"},{\"@type\":\"Organization\",\"@id\":\"https://www.sweep.net/#organization\",\"name\":\"Sweep\",\"alternateName\":\"Sweep - Sustainability Intelligence Platform\",\"url\":\"https://www.sweep.net/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"fr-FR\",\"@id\":\"https://www.sweep.net/#/schema/logo/image/\",\"url\":\"https://www.sweep.net/app/uploads/2025/06/Frame13213151372-e1761820204758.png\",\"contentUrl\":\"https://www.sweep.net/app/uploads/2025/06/Frame13213151372-e1761820204758.png\",\"width\":293,\"height\":100,\"caption\":\"Sweep\"},\"image\":{\"@id\":\"https://www.sweep.net/#/schema/logo/image/\"},\"sameAs\":[\"https://www.linkedin.com/company/sweep-softwareforsustainability\",\"https://www.youtube.com/@SweepThePlanet\"],\"contactPoint\":{\"@type\":\"ContactPoint\",\"email\":\"hello@sweep.net\"},\"address\":{\"@type\":\"PostalAddress\",\"streetAddress\":\"FLEXO \\u2013 80 Rue Isabelle Eberhardt\",\"postalCode\":\"34000\",\"addressLocality\":\"Montpellier\",\"addressCountry\":\"FR\"},\"description\":\"Sweep is the sustainability intelligence platform that turns sustainability data into measurable business performance.\",\"email\":\"hello@sweep.net\",\"legalName\":\"Sweep SAS\",\"foundingDate\":\"2020-09-01\",\"vatID\":\"FR85883967879\",\"numberOfEmployees\":{\"@type\":\"QuantitativeValue\",\"minValue\":\"201\",\"maxValue\":\"500\"},\"ownershipFundingInfo\":\"https://www.sweep.net/about/\"},{\"@type\":\"FAQPage\",\"@id\":\"https://www.sweep.net/fr/reporting-esg#faq\",\"mainEntity\":[{\"@type\":\"Question\",\"name\":\"Qu&#039;est-ce qu&#039;un logiciel de reporting ESG, et pourquoi les organisations en ont-elles besoin ?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Le reporting ESG est le processus par lequel les entreprises publient leurs donn\\u00e9es environnementales, sociales et de gouvernance dans leurs rapports financiers, visant \\u00e0 am\\u00e9liorer la transparence pour les investisseurs et les parties prenantes. Un logiciel de reporting ESG est une plateforme de gestion qui permet aux organisations de collecter, centraliser, analyser et publier ces donn\\u00e9es de mani\\u00e8re structur\\u00e9e et auditable.\\nLes logiciels ESG simplifient le processus de gestion des donn\\u00e9es de durabilit\\u00e9 et aident les entreprises \\u00e0 se conformer aux exigences r\\u00e9glementaires, tout en am\\u00e9liorant la transparence de leurs efforts. Ils permettent d&#8217;automatiser la collecte, l&#8217;analyse et le reporting des donn\\u00e9es, ce qui facilite la centralisation des informations et am\\u00e9liore la pr\\u00e9cision des rapports. Les entreprises qui adoptent des solutions technologiques avanc\\u00e9es pour la gestion des donn\\u00e9es ESG peuvent mieux r\\u00e9pondre aux exigences r\\u00e9glementaires et am\\u00e9liorer leur transparence.\\nLe march\\u00e9 des logiciels de reporting ESG conna\\u00eet une croissance substantielle \\u2014 \\u00e9valu\\u00e9 \\u00e0 0,7 milliard de dollars en 2022, il devrait atteindre 1,5 milliard de dollars. En 2026, ce march\\u00e9 est marqu\\u00e9 par l&#8217;automatisation via l&#8217;intelligence artificielle et une int\\u00e9gration croissante avec la comptabilit\\u00e9 financi\\u00e8re, pour r\\u00e9pondre aux exigences de la directive CSRD.\\nLe reporting ESG n&#8217;est plus optionnel. Les principaux moteurs r\\u00e9glementaires :\\n\\nLa CSRD (Corporate Sustainability Reporting Directive), d\\u00e9sormais obligatoire dans l&#8217;Union europ\\u00e9enne, exige des organisations qu&#8217;elles publient leurs performances et impacts ESG selon des normes ESRS standardis\\u00e9es \\u2014 avec un niveau d&#8217;exigence significativement sup\\u00e9rieur aux directives pr\\u00e9c\\u00e9dentes.\\nLes normes de divulgation ISSB, adopt\\u00e9es dans 21 juridictions dont le Royaume-Uni, le Japon et l&#8217;Australie.\\nLe BEGES (Bilan d&#8217;\\u00c9missions de Gaz \\u00e0 Effet de Serre), obligation l\\u00e9gale fran\\u00e7aise tous les 4 ans au-del\\u00e0 de 500 salari\\u00e9s (250 en Outre-mer), en application de l&#8217;article L.229-25 du code de l&#8217;environnement.\\n\\nUn nombre significatif d&#8217;entreprises s&#8217;appuie encore sur des tableurs pour le reporting ESG \\u2014 inadapt\\u00e9s \\u00e0 la complexit\\u00e9 et au volume de donn\\u00e9es requis par la CSRD et les normes ISSB. Le logiciel de reporting ESG de Sweep r\\u00e9unit donn\\u00e9es ESG et carbone, analyses de mat\\u00e9rialit\\u00e9 et workflows de d\\u00e9claration dans un seul espace de travail, mapp\\u00e9 sur tous les r\\u00e9f\\u00e9rentiels \\u00e0 d\\u00e9poser.\\n\"}},{\"@type\":\"Question\",\"name\":\"Quels r\\u00e9f\\u00e9rentiels de reporting ESG Sweep supporte-t-il ?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Les logiciels de reporting ESG doivent int\\u00e9grer nativement les standards de reporting \\u2014 CSRD, ESRS, GRI, SFDR \\u2014 et s&#8217;adapter aux \\u00e9volutions r\\u00e9glementaires. Les entreprises doivent se conformer \\u00e0 des r\\u00e9glementations en constante \\u00e9volution pour garantir la transparence et la responsabilit\\u00e9. En pratique, la plupart des grandes organisations doivent r\\u00e9pondre \\u00e0 plusieurs r\\u00e9f\\u00e9rentiels simultan\\u00e9ment avec des exigences qui se recoupent de mani\\u00e8re complexe. Sweep \\u00e9limine la duplication en permettant de mapper un seul jeu de donn\\u00e9es sur tous les r\\u00e9f\\u00e9rentiels \\u00e0 d\\u00e9poser :\\n\\nCSRD (Corporate Sustainability Reporting Directive)\\nBilan Carbone\\nBEGES\\nGRI (Global Reporting Initiative)\\nISSB (International Sustainability Standards Board / IFRS S1 &amp; S2)\\nCDP (Carbon Disclosure Project)\\nSASB (Sustainability Accounting Standards Board)\\nTCFD (Task Force on Climate-related Financial Disclosures)\\nSFDR (Sustainable Finance Disclosure Regulation)\\nUK SRS (UK Sustainability Reporting Standards)\\nCalifornia SB 253 et SB 261\\nProtocole GHG pour la comptabilit\\u00e9 carbone sur les trois scopes d&#8217;\\u00e9missions\\n\\nIl n&#8217;existe pas de norme unique pour les rapports ESG en Am\\u00e9rique du Nord, mais plusieurs normes r\\u00e9gionales et volontaires &#8211; SASB, GRI &#8211; guident les entreprises. Sweep les supporte toutes, avec des mod\\u00e8les pr\\u00e9configur\\u00e9s qui mappent les donn\\u00e9es sur les exigences de divulgation sp\\u00e9cifiques automatiquement, avec une guidance contextuelle int\\u00e9gr\\u00e9e. Cette approche &#8220;un seul dataset, tous les r\\u00e9f\\u00e9rentiels&#8221; signifie que vos \\u00e9quipes ne reconstruisent pas les rapports \\u00e0 chaque nouvelle obligation r\\u00e9glementaire.\\nLes capacit\\u00e9s de comptabilit\\u00e9 carbone de Sweep sont construites sur le Protocole GHG. Les \\u00e9missions Scope 1, 2 et 3 sont des composantes critiques du reporting ESG : le Scope 1 d\\u00e9signe les \\u00e9missions directes, le Scope 2 les \\u00e9missions indirectes li\\u00e9es \\u00e0 l&#8217;\\u00e9lectricit\\u00e9 achet\\u00e9e, et le Scope 3 l&#8217;ensemble des autres \\u00e9missions indirectes sur la cha\\u00eene de valeur.\\n\"}},{\"@type\":\"Question\",\"name\":\"Comment Sweep centralise-t-il les donn\\u00e9es ESG et carbone pour le reporting ?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Une gestion efficace des donn\\u00e9es de durabilit\\u00e9 commence par l&#8217;int\\u00e9gration des donn\\u00e9es. L&#8217;utilisation de logiciels ESG aide \\u00e0 r\\u00e9duire les erreurs manuelles en centralisant les donn\\u00e9es, ce qui am\\u00e9liore la coh\\u00e9rence et la qualit\\u00e9 des rapports ESG. La fragmentation des donn\\u00e9es entre entit\\u00e9s, g\\u00e9ographies et fournisseurs est l&#8217;un des principaux obstacles \\u00e0 un reporting ESG pr\\u00e9cis et efficace. Sweep r\\u00e9sout ce probl\\u00e8me en centralisant toutes les donn\\u00e9es ESG et carbone dans un espace de travail collaboratif unique.\\nCapacit\\u00e9s cl\\u00e9s de gestion des donn\\u00e9es :\\n\\nCentralisation des donn\\u00e9es ESG et carbone sur l&#8217;ensemble des entit\\u00e9s, sites et fournisseurs dans une seule plateforme\\nInt\\u00e9grations syst\\u00e8me via connecteurs et APIs pour extraire les donn\\u00e9es directement des ERP, syst\\u00e8mes RH, \\u00e9nergie, achats et d\\u00e9placements\\nPortails fournisseurs pour la collecte directe des donn\\u00e9es cha\\u00eene de valeur et Scope 3, avec l&#8217;ensemble du p\\u00e9rim\\u00e8tre d&#8217;\\u00e9missions dans un seul espace\\nContr\\u00f4le de version sur chaque chiffre et chaque narratif, avec historique complet des modifications maintenu automatiquement\\nAutomatisation des processus qui \\u00e9limine la saisie manuelle, r\\u00e9duit les erreurs et supprime toute d\\u00e9pendance aux tableurs\\n\\nLes \\u00e9missions de Scope 3 repr\\u00e9sentent souvent la plus grande part de l&#8217;empreinte carbone d&#8217;une entreprise. La collecte de ces donn\\u00e9es est complexe car elle n\\u00e9cessite des informations provenant de multiples sources, souvent en dehors du contr\\u00f4le direct de l&#8217;entreprise. Les entreprises doivent int\\u00e9grer des outils de gestion des donn\\u00e9es pour suivre efficacement leurs \\u00e9missions de Scope 3, afin de r\\u00e9pondre aux exigences r\\u00e9glementaires croissantes et aux attentes des parties prenantes.\\nL&#8217;engagement des fournisseurs est essentiel pour am\\u00e9liorer la durabilit\\u00e9 de la cha\\u00eene d&#8217;approvisionnement. Les entreprises doivent collaborer avec leurs fournisseurs pour \\u00e9tablir des objectifs de durabilit\\u00e9 communs, ce qui renforce la transparence et la responsabilit\\u00e9 au sein de la cha\\u00eene. L&#8217;utilisation de questionnaires et d&#8217;outils d&#8217;\\u00e9valuation pour mesurer les performances ESG des fournisseurs est une pratique courante qui aide \\u00e0 identifier les domaines d&#8217;am\\u00e9lioration. Sweep se distingue par sa capacit\\u00e9 \\u00e0 cartographier les \\u00e9missions indirectes et \\u00e0 engager la cha\\u00eene de valeur pour le pilotage Climat et Scope 3.\\nL&#8217;automatisation peut raccourcir les cycles de reporting jusqu&#8217;\\u00e0 70 % et r\\u00e9duire consid\\u00e9rablement les co\\u00fbts de main-d&#8217;\\u0153uvre administrative \\u2014 permettant aux \\u00e9quipes durabilit\\u00e9 de se concentrer sur des analyses \\u00e0 plus forte valeur ajout\\u00e9e.\\n\"}},{\"@type\":\"Question\",\"name\":\"Comment Sweep assure-t-il un reporting ESG pr\\u00eat pour l&#039;audit ?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Un logiciel de reporting ESG pr\\u00eat pour l&#8217;audit signifie que chaque point de donn\\u00e9es, calcul et approbation est enti\\u00e8rement tra\\u00e7able, document\\u00e9 et disponible pour un examen par un tiers \\u00e0 tout moment. Les logiciels de reporting ESG doivent faciliter le travail des auditeurs externes via un archivage s\\u00e9curis\\u00e9 des preuves et une tra\\u00e7abilit\\u00e9 des modifications. Les outils de reporting ESG doivent pr\\u00e9senter des workflows de validation et des pistes d&#8217;audit transparentes. C&#8217;est pr\\u00e9cis\\u00e9ment ce que Sweep fournit nativement.\\nCe niveau de rigueur est essentiel : la CSRD exige une assurance externe obligatoire des d\\u00e9clarations de durabilit\\u00e9, et la pression des investisseurs et des r\\u00e9gulateurs sur les donn\\u00e9es ESG ne cesse de s&#8217;intensifier. Les pistes d&#8217;audit dans Sweep maintiennent un journal permanent de toutes les saisies de donn\\u00e9es, calculs et approbations,\\u00a0 essentiel pour l&#8217;assurance externe et pour prot\\u00e9ger les organisations contre toute accusation de greenwashing.\\n\\nTra\\u00e7abilit\\u00e9 compl\\u00e8te des donn\\u00e9es de la donn\\u00e9e brute \\u00e0 la d\\u00e9claration d\\u00e9pos\\u00e9e, chaque chiffre trac\\u00e9 jusqu&#8217;\\u00e0 sa source originale\\nArchivage s\\u00e9curis\\u00e9 des preuves et m\\u00e9thodologie captur\\u00e9s automatiquement \\u00e0 chaque \\u00e9tape du processus de reporting ESG\\nWorkflows de gouvernance sophistiqu\\u00e9s pour les approbations de d\\u00e9clarations, avec contr\\u00f4les flexibles adapt\\u00e9s \\u00e0 la structure de l&#8217;\\u00e9quipe\\nInterface d&#8217;acc\\u00e8s auditeur donnant aux v\\u00e9rificateurs tiers une visibilit\\u00e9 directe et contr\\u00f4l\\u00e9e sur les donn\\u00e9es et la documentation\\nSupport de l&#8217;assurance limit\\u00e9e sous CSRD aujourd&#8217;hui, avec une trajectoire claire vers l&#8217;assurance raisonnable lors de la mont\\u00e9e en charge\\n\\nCe niveau de gouvernance est ce qui diff\\u00e9rencie fondamentalement Sweep des outils de reporting fragment\\u00e9s et des approches tableurs. Lorsqu&#8217;un auditeur arrive, les preuves sont d\\u00e9j\\u00e0 l\\u00e0, organis\\u00e9es et compl\\u00e8tes.\\n\"}},{\"@type\":\"Question\",\"name\":\"Comment l&#039;IA acc\\u00e9l\\u00e8re-t-elle le processus de reporting ESG dans Sweep ?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Le march\\u00e9 des logiciels de reporting ESG en 2026 est marqu\\u00e9 par l&#8217;automatisation via l&#8217;intelligence artificielle et une int\\u00e9gration avec la comptabilit\\u00e9 financi\\u00e8re. Les plateformes modernes de reporting ESG offrent des outils de pilotage strat\\u00e9gique qui d\\u00e9passent la simple conformit\\u00e9. L&#8217;IA sectorielle de Sweep acc\\u00e9l\\u00e8re le reporting ESG \\u00e0 chaque \\u00e9tape du processus de d\\u00e9claration, tout en maintenant la qualit\\u00e9 et la pr\\u00e9cision qu&#8217;exige le reporting r\\u00e9glementaire.\\n\\nValidation des donn\\u00e9es qui v\\u00e9rifie automatiquement les donn\\u00e9es ESG pour les erreurs, lacunes et incoh\\u00e9rences avant d\\u00e9claration\\nR\\u00e9daction de narratifs sur tous les types d&#8217;indicateurs, g\\u00e9n\\u00e9rant des r\\u00e9ponses de haute qualit\\u00e9 bas\\u00e9es sur les donn\\u00e9es en temps r\\u00e9el\\nD\\u00e9tection d&#8217;incoh\\u00e9rences qui remonte les points de donn\\u00e9es conflictuels ou les lacunes m\\u00e9thodologiques avant qu&#8217;ils n&#8217;atteignent l&#8217;auditeur\\nAlimentation automatique des indicateurs directement depuis les sources de donn\\u00e9es connect\\u00e9es, r\\u00e9duisant la saisie manuelle au minimum\\nAnalyses en temps r\\u00e9el qui visualisent les indicateurs de performance cl\\u00e9s via des tableaux de bord interactifs, permettant aux \\u00e9quipes de suivre leurs progr\\u00e8s vers les objectifs net z\\u00e9ro en continu\\n\\nAu-del\\u00e0 du reporting, cette visibilit\\u00e9 en temps r\\u00e9el soutient la planification efficace de la transition climatique. Les organisations doivent d\\u00e9velopper un plan de transition climatique d\\u00e9finissant des actions sp\\u00e9cifiques, des d\\u00e9lais et des responsabilit\\u00e9s pour atteindre leurs objectifs de durabilit\\u00e9. Un plan de transition r\\u00e9ussi inclut des cibles mesurables, des \\u00e9valuations r\\u00e9guli\\u00e8res et l&#8217;engagement des parties prenantes. Les outils d&#8217;analyse et de d\\u00e9finition d&#8217;objectifs de Sweep fournissent la base de donn\\u00e9es n\\u00e9cessaire pour construire et maintenir exactement ce type de plan.\\n\"}},{\"@type\":\"Question\",\"name\":\"Pourquoi les organisations choisissent-elles Sweep comme logiciel de reporting ESG ?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Sweep est reconnu comme leader des solutions ESG par les analystes ind\\u00e9pendants IDC MarketScape et Verdantix, et a \\u00e9t\\u00e9 s\\u00e9lectionn\\u00e9 par des organisations telles que L&#8217;Or\\u00e9al, Orange, Voltalia, Swisscom et Airbus. Les raisons pour lesquelles les organisations choisissent Sweep plut\\u00f4t que d&#8217;autres logiciels de reporting ESG tiennent \\u00e0 la profondeur, la flexibilit\\u00e9 et la performance r\\u00e9elle.\\nL\\u00e0 o\\u00f9 d&#8217;autres logiciels de reporting ESG fonctionnent principalement comme une couche de reporting au-dessus de sources de donn\\u00e9es d\\u00e9connect\\u00e9es, Sweep fournit une base structur\\u00e9e pour g\\u00e9rer l&#8217;ensemble du parcours de durabilit\\u00e9 \\u2014 de l&#8217;analyse de mat\\u00e9rialit\\u00e9 et la collecte de donn\\u00e9es jusqu&#8217;\\u00e0 la d\\u00e9claration d\\u00e9pos\\u00e9e et le suivi continu des performances.\\n\\nUne plateforme int\\u00e9gr\\u00e9e pour la gestion des donn\\u00e9es ESG, la comptabilit\\u00e9 carbone, l&#8217;engagement fournisseurs, l&#8217;analyse de mat\\u00e9rialit\\u00e9 et la d\\u00e9claration multi-r\\u00e9f\\u00e9rentiels\\nScalabilit\\u00e9 sur des organisations complexes et d\\u00e9centralis\\u00e9es g\\u00e9rant plusieurs entit\\u00e9s, g\\u00e9ographies et cha\\u00eenes d&#8217;approvisionnement\\nFlexibilit\\u00e9 des r\\u00e9f\\u00e9rentiels : CSRD, ISSB, GRI, CDP, lois am\\u00e9ricaines et indicateurs ESG personnalis\\u00e9s simultan\\u00e9ment\\nEfficacit\\u00e9 op\\u00e9rationnelle par l&#8217;automatisation qui \\u00e9limine les tableurs, r\\u00e9duit les cycles de reporting et abaisse consid\\u00e9rablement les co\\u00fbts administratifs\\nValeur strat\\u00e9gique par l&#8217;identification des hotspots carbone, la simulation de trajectoires de r\\u00e9duction et les recommandations IA\\nCartographie des \\u00e9missions indirectes et engagement de la cha\\u00eene de valeur pour le pilotage Climat et Scope 3\\n\\nL&#8217;engagement fournisseurs est une autre dimension o\\u00f9 Sweep g\\u00e9n\\u00e8re un impact mesurable. Les entreprises doivent collaborer avec leurs fournisseurs pour \\u00e9tablir des objectifs de durabilit\\u00e9 communs, ce qui renforce la transparence et la responsabilit\\u00e9 au sein de la cha\\u00eene d&#8217;approvisionnement. Les portails fournisseurs de Sweep rendent tout cela pratique \\u00e0 grande \\u00e9chelle, avec questionnaires d&#8217;\\u00e9valuation ESG et collecte de donn\\u00e9es Scope 3 int\\u00e9gr\\u00e9s.\\nUne forte performance ESG, soutenue par des donn\\u00e9es fiables et transparentes, peut \\u00e9galement conduire \\u00e0 des conditions de financement pr\\u00e9f\\u00e9rentielles et attirer les talents. Le reporting ESG, bien fait avec les bons outils, n&#8217;est pas un simple exercice de conformit\\u00e9 : c&#8217;est un actif strat\\u00e9gique.\\n\"}}]}]}"
+  ],
+  "meta_tags": {
+    "viewport": "width=device-width, initial-scale=1.0",
+    "description": "Automatisez votre reporting ESG avec Sweep : rapports conformes CSRD, Bilan Carbone, CDP, GRI, ISSB. Demandez une démo.",
+    "generator": "Astro v6.3.7",
+    "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+    "og:locale": "fr-FR",
+    "og:type": "WebPage",
+    "og:title": "Simplifiez votre reporting ESG - Sweep",
+    "og:description": "Automatisez votre reporting ESG avec Sweep : rapports conformes CSRD, Bilan Carbone, CDP, GRI, ISSB. Demandez une démo.",
+    "og:url": "https://www.sweep.net/fr/reporting-esg",
+    "og:site_name": "Sweep",
+    "og:updated_time": "2026-06-17T13:15:19+00:00",
+    "og:image": "/_astro/Header01-1_1vKDVT.svg",
+    "og:image:secure_url": "/_astro/Header01-1_1vKDVT.svg",
+    "og:image:width": "613",
+    "og:image:height": "504",
+    "twitter:card": "summary_large_image",
+    "twitter:title": "Simplifiez votre reporting ESG - Sweep",
+    "twitter:description": "Automatisez votre reporting ESG avec Sweep : rapports conformes CSRD, Bilan Carbone, CDP, GRI, ISSB. Demandez une démo.",
+    "twitter:image": "/_astro/Header01-1_1vKDVT.svg",
+    "msapplication-TileColor": "#283fff",
+    "msapplication-config": "/favicons/browserconfig.xml",
+    "theme-color": "#283fff"
+  },
+  "link_tags": [
+    {
+      "rel": [
+        "canonical"
+      ],
+      "href": "https://www.sweep.net/fr/reporting-esg"
+    },
+    {
+      "rel": [
+        "apple-touch-icon"
+      ],
+      "sizes": "180x180",
+      "href": "/favicons/apple-touch-icon.png"
+    },
+    {
+      "rel": [
+        "icon"
+      ],
+      "type": "image/png",
+      "sizes": "32x32",
+      "href": "/favicons/favicon-32x32.png"
+    },
+    {
+      "rel": [
+        "icon"
+      ],
+      "type": "image/png",
+      "sizes": "16x16",
+      "href": "/favicons/favicon-16x16.png"
+    },
+    {
+      "rel": [
+        "manifest"
+      ],
+      "href": "/favicons/site.webmanifest"
+    },
+    {
+      "rel": [
+        "mask-icon"
+      ],
+      "href": "/favicons/safari-pinned-tab.svg",
+      "color": "#283fff"
+    },
+    {
+      "rel": [
+        "shortcut",
+        "icon"
+      ],
+      "href": "/favicons/favicon.ico"
+    },
+    {
+      "rel": [
+        "preload"
+      ],
+      "href": "/_astro/fonts/b63d263538eb5c08.woff2",
+      "as": "font",
+      "type": "font/woff2",
+      "crossorigin": ""
+    },
+    {
+      "rel": [
+        "preload"
+      ],
+      "href": "/_astro/fonts/123fab1dee5d0200.woff2",
+      "as": "font",
+      "type": "font/woff2",
+      "crossorigin": ""
+    },
+    {
+      "rel": [
+        "preload"
+      ],
+      "href": "/_astro/fonts/5b3f8264d8aa7fec.woff2",
+      "as": "font",
+      "type": "font/woff2",
+      "crossorigin": ""
+    },
+    {
+      "rel": [
+        "sitemap"
+      ],
+      "href": "/sitemap-index.xml"
+    },
+    {
+      "rel": [
+        "stylesheet"
+      ],
+      "href": "/_astro/swiper-bundle.C3pJtvjs.css"
+    },
+    {
+      "rel": [
+        "stylesheet"
+      ],
+      "href": "/_astro/ModulesIncluder.B9brtxwE.css"
+    },
+    {
+      "rel": [
+        "stylesheet"
+      ],
+      "href": "/_astro/Layout.CA3wCqUP.css"
+    }
+  ]
+}

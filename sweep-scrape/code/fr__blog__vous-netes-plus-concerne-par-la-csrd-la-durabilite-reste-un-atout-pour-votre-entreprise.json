@@ -1,0 +1,198 @@
+{
+  "scripts": [
+    {
+      "src": "",
+      "type": "text/javascript",
+      "inline": "(function(){const GTM_CODE = \"GTM-MKL4GSS\";\n\n  (function (w, d, s, l, i) {\n    w[l] = w[l] || [];\n    w[l].push({ 'gtm.start': Date.now(), event: 'gtm.js' });\n    const f = d.getElementsByTagName(s)[0];\n    const j = d.createElement(s);\n    const dl = l !== 'dataLayer' ? `&l=${l}` : '';\n    j.async = true;\n    j.src = `https://www.googletagmanager.com/gtm.js?id=${i}${dl}`;\n    f.parentNode.insertBefore(j, f);\n  })(window, document, 'script', 'dataLayer', GTM_CODE);\n})();"
+    },
+    {
+      "src": "",
+      "type": "application/ld+json",
+      "inline": "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https://www.sweep.net/fr/blog/vous-netes-plus-concerne-par-la-csrd-la-durabilite-reste-un-atout-pour-votre-entreprise#webpage\",\"url\":\"https://www.sweep.net/fr/blog/vous-netes-plus-concerne-par-la-csrd-la-durabilite-reste-un-atout-pour-votre-entreprise/\",\"name\":\"Vous n'\\u00eates plus concern\\u00e9 par la CSRD ? La durabilit\\u00e9 reste un atout pour votre entreprise - Sweep\",\"isPartOf\":{\"@id\":\"https://www.sweep.net/#website\"},\"datePublished\":\"2025-03-28T15:41:37+00:00\",\"dateModified\":\"2025-07-17T07:59:42+00:00\",\"description\":\"La durabilit\\u00e9 n'est pas une contrainte r\\u00e9glementaire : c'est un pilier de la r\\u00e9silience, et un avantage concurrentiel. Voici pourquoi.\",\"breadcrumb\":{\"@id\":\"https://www.sweep.net/fr/blog/vous-netes-plus-concerne-par-la-csrd-la-durabilite-reste-un-atout-pour-votre-entreprise/#breadcrumb\"},\"inLanguage\":\"fr-FR\",\"about\":{\"@id\":\"https://www.sweep.net/#organization\"}},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://www.sweep.net/fr/blog/vous-netes-plus-concerne-par-la-csrd-la-durabilite-reste-un-atout-pour-votre-entreprise/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://www.sweep.net/fr/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Blog\",\"item\":\"https://www.sweep.net/fr/blog/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Vous n&#8217;\\u00eates plus concern\\u00e9 par la CSRD ? La durabilit\\u00e9 reste un atout pour votre entreprise\",\"item\":\"https://www.sweep.net/fr/blog/vous-netes-plus-concerne-par-la-csrd-la-durabilite-reste-un-atout-pour-votre-entreprise/\"}]},{\"@type\":\"WebSite\",\"@id\":\"https://www.sweep.net/#website\",\"url\":\"https://www.sweep.net/\",\"name\":\"Sweep\",\"description\":\"Sweep turns sustainability data into business intelligence. Sweep&#039;s AI-powered platform helps enterprises with ESG reporting and carbon management.\",\"publisher\":{\"@id\":\"https://www.sweep.net/#organization\"},\"alternateName\":\"SWEEP\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://www.sweep.net/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"fr-FR\"},{\"@type\":\"Organization\",\"@id\":\"https://www.sweep.net/#organization\",\"name\":\"Sweep\",\"alternateName\":\"Sweep - Sustainability Intelligence Platform\",\"url\":\"https://www.sweep.net/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"fr-FR\",\"@id\":\"https://www.sweep.net/#/schema/logo/image/\",\"url\":\"https://www.sweep.net/app/uploads/2025/06/Frame13213151372-e1761820204758.png\",\"contentUrl\":\"https://www.sweep.net/app/uploads/2025/06/Frame13213151372-e1761820204758.png\",\"width\":293,\"height\":100,\"caption\":\"Sweep\"},\"image\":{\"@id\":\"https://www.sweep.net/#/schema/logo/image/\"},\"sameAs\":[\"https://www.linkedin.com/company/sweep-softwareforsustainability\",\"https://www.youtube.com/@SweepThePlanet\"],\"contactPoint\":{\"@type\":\"ContactPoint\",\"email\":\"hello@sweep.net\"},\"address\":{\"@type\":\"PostalAddress\",\"streetAddress\":\"FLEXO \\u2013 80 Rue Isabelle Eberhardt\",\"postalCode\":\"34000\",\"addressLocality\":\"Montpellier\",\"addressCountry\":\"FR\"},\"description\":\"Sweep is the sustainability intelligence platform that turns sustainability data into measurable business performance.\",\"email\":\"hello@sweep.net\",\"legalName\":\"Sweep SAS\",\"foundingDate\":\"2020-09-01\",\"vatID\":\"FR85883967879\",\"numberOfEmployees\":{\"@type\":\"QuantitativeValue\",\"minValue\":\"201\",\"maxValue\":\"500\"},\"ownershipFundingInfo\":\"https://www.sweep.net/about/\"}]}"
+    },
+    {
+      "src": "",
+      "type": "",
+      "inline": "(function(){const TRANSLATIONS = {\"source\":\"Source\",\"all\":\"Tous\",\"customer\":\"Client\",\"home\":\"Home\",\"event\":\"EVENT\",\"blog\":\"Les dernières perspectives des experts de Sweep\",\"pastEvent\":\"ÉVÉNEMENT PASSÉ\",\"readMore\":\"Lire la suite\",\"loadMore\":\"Afficher plus\",\"viewCaseStudy\":\"Lire le cas client\",\"size\":\"Taille\",\"industry\":\"Secteur d'activité\",\"headquarters\":\"Siège\",\"website\":\"Site web\",\"category\":\"Catégorie\",\"company\":\"Entreprise\",\"lastUpdated\":\"Dernière mise à jour\",\"hubspotForm\":{\"defaultPrivacyPolicyText\":\"\\u003cp>DEFAULT PRIVACY POLICY TEXT\\u003c/p>\\n\",\"formMessageThankYou\":\"MERCI POUR VOTRE INTÉRÊT\",\"formSubmissionFailedMessage\":\"ENVOI ÉCHOUÉ\",\"submit\":\"Envoyer\",\"submitting\":\"Envoi en cours\",\"skipThisStep\":\"Skip this step\",\"selectDateAndTime\":\"Sélectionnez la date\"},\"sidebar\":{\"author\":\"Auteur\",\"download\":\"Télécharger\",\"guide\":\"Guide\",\"joinUsLive\":\"Rejoignez-nous à {location}\",\"joinUsOnline\":\"Rejoignez-nous en ligne\",\"register\":\"S'inscrire\",\"tableOfContents\":\"Contenus\"},\"eventInformation\":{\"date\":\"Date\",\"language\":\"Langue\",\"location\":\"Lieu\",\"time\":\"Horaires\"},\"article\":{\"moreCustomerStories\":\"Plus de cas clients\",\"moreEvents\":\"Plus d'événements\",\"moreStories\":\"Plus d'articles\"},\"newsletterSection\":{\"formSuccessMessage\":\"ENVOI REUSSI\",\"signUp\":\"S'inscrire\"},\"error404\":{\"pageTitle\":\"Page non trouvée\"}};\nconst PAGE_TRANSLATIONS = [{\"uri\":\"/blog/no-longer-covered-by-the-csrd-sustainability-is-still-your-business-advantage/\",\"languageName\":\"English\",\"languageCode\":\"en\",\"isCurrent\":false},{\"uri\":\"/fr/blog/vous-netes-plus-concerne-par-la-csrd-la-durabilite-reste-un-atout-pour-votre-entreprise/\",\"languageName\":\"French\",\"languageCode\":\"fr\",\"isCurrent\":true}];\n\n      // Populate translations in client for React components\n      window.TRANSLATIONS = TRANSLATIONS;\n      window.PAGE_TRANSLATIONS = PAGE_TRANSLATIONS;\n    })();"
+    },
+    {
+      "src": "",
+      "type": "",
+      "inline": "\n      (async function () {\n        const resp = await fetch(document.location.href, { method: 'HEAD' });\n        const headers = Object.fromEntries(resp.headers.entries());\n        const COUNTRY_HEADER_NAME = 'x-geolocation-country';\n        const countryHeader =\n          headers[COUNTRY_HEADER_NAME] &&\n          headers[COUNTRY_HEADER_NAME] !== 'UNKNOWN'\n            ? headers[COUNTRY_HEADER_NAME]\n            : undefined;\n        if (countryHeader) {\n          const html = document.documentElement;\n          const country = countryHeader\n            .trim()\n            .toUpperCase()\n            .replaceAll(' ', '-');\n\n          const style = document.createElement('style');\n          style.innerHTML = ` [data-regionalisation]:not([data-regionalisation~='${country}']){display:none!important}`;\n          html.append(style);\n        }\n      })();\n    "
+    },
+    {
+      "src": "/_astro/Layout.astro_astro_type_script_index_0_lang.rZx_Pqve.js",
+      "type": "module",
+      "inline": ""
+    },
+    {
+      "src": "/_astro/HeaderTopBar.astro_astro_type_script_index_0_lang.CYlzTvMq.js",
+      "type": "module",
+      "inline": ""
+    },
+    {
+      "src": "/_astro/Menu.astro_astro_type_script_index_0_lang.CfVobQKu.js",
+      "type": "module",
+      "inline": ""
+    },
+    {
+      "src": "/_astro/LanguageSwitcher.astro_astro_type_script_index_0_lang.Bv9qTMAS.js",
+      "type": "module",
+      "inline": ""
+    },
+    {
+      "src": "",
+      "type": "module",
+      "inline": "const r=document.querySelectorAll('button[data-action=\"toggle-menu\"]');for(const t of r)t.addEventListener(\"click\",()=>{const o=t.getAttribute(\"aria-controls\"),e=document.getElementById(o??\"\"),n=t.ariaPressed===\"true\",a=n?\"false\":\"true\";t.ariaPressed=a,e&&(e.ariaHidden=n?\"true\":\"false\")});"
+    },
+    {
+      "src": "/_astro/LanguageDialog.astro_astro_type_script_index_0_lang.D0g94lC1.js",
+      "type": "module",
+      "inline": ""
+    },
+    {
+      "src": "/_astro/ArticleSharing.astro_astro_type_script_index_0_lang.BwU4aT0J.js",
+      "type": "module",
+      "inline": ""
+    },
+    {
+      "src": "/_astro/SidebarCardTableOfContents.astro_astro_type_script_index_0_lang.B1oIl2HO.js",
+      "type": "module",
+      "inline": ""
+    }
+  ],
+  "styles": [
+    "@font-face{font-family:MaisonNeue-acc6d63081794627;src:url(\"/_astro/fonts/b63d263538eb5c08.woff2\") format(\"woff2\"), url(\"/_astro/fonts/28e07e20de8c9608.woff\") format(\"woff\");font-display:swap;font-weight:400;font-style:normal;}@font-face{font-family:MaisonNeue-acc6d63081794627;src:url(\"/_astro/fonts/123fab1dee5d0200.woff2\") format(\"woff2\"), url(\"/_astro/fonts/17bda73a4871dcf6.woff\") format(\"woff\");font-display:swap;font-weight:500;font-style:normal;}@font-face{font-family:MaisonNeue-acc6d63081794627;src:url(\"/_astro/fonts/5b3f8264d8aa7fec.woff2\") format(\"woff2\"), url(\"/_astro/fonts/6685f19f7e6b0ce0.woff\") format(\"woff\");font-display:swap;font-weight:700;font-style:normal;}@font-face{font-family:\"MaisonNeue-acc6d63081794627 fallback: Arial\";src:local(\"Arial\");font-display:swap;font-weight:400;font-style:normal;size-adjust:101.1663%;ascent-override:98.0564%;descent-override:33.2127%;line-gap-override:0%;}@font-face{font-family:\"MaisonNeue-acc6d63081794627 fallback: Arial\";src:local(\"Arial\");font-display:swap;font-weight:500;font-style:normal;size-adjust:101.1663%;ascent-override:98.0564%;descent-override:33.2127%;line-gap-override:0%;}@font-face{font-family:\"MaisonNeue-acc6d63081794627 fallback: Arial\";src:local(\"Arial\");font-display:swap;font-weight:700;font-style:normal;size-adjust:101.1663%;ascent-override:98.0564%;descent-override:33.2127%;line-gap-override:0%;}:root{--astro-font-maison-neue:MaisonNeue-acc6d63081794627,\"MaisonNeue-acc6d63081794627 fallback: Arial\",sans-serif;}",
+    "@keyframes modal-video{0%{opacity:0}to{opacity:1}}@keyframes modal-video-inner{0%{transform:translateY(100px)}to{transform:translate(0)}}.modal-video{position:fixed;top:0;left:0;width:100%;height:100%;background-color:#00000080;z-index:1000000;cursor:pointer;opacity:1;animation-timing-function:ease-out;animation-duration:.3s;animation-name:modal-video;-webkit-transition:opacity .3s ease-out;-moz-transition:opacity .3s ease-out;-ms-transition:opacity .3s ease-out;-o-transition:opacity .3s ease-out;transition:opacity .3s ease-out}.modal-video-close{opacity:0}.modal-video-close .modal-video-movie-wrap{-webkit-transform:translate(0,100px);-moz-transform:translate(0,100px);-ms-transform:translate(0,100px);-o-transform:translate(0,100px);transform:translateY(100px)}.modal-video-body{max-width:960px;width:100%;height:100%;margin:0 auto;padding:0 10px;display:flex;justify-content:center;box-sizing:border-box}.modal-video-inner{display:flex;justify-content:center;align-items:center;width:100%;height:100%}@media(orientation:landscape){.modal-video-inner{padding:10px 60px;box-sizing:border-box}}.modal-video-movie-wrap{width:100%;height:0;position:relative;padding-bottom:56.25%;background-color:#333;animation-timing-function:ease-out;animation-duration:.3s;animation-name:modal-video-inner;-webkit-transform:translate(0,0);-moz-transform:translate(0,0);-ms-transform:translate(0,0);-o-transform:translate(0,0);transform:translate(0);-webkit-transition:-webkit-transform .3s ease-out;-moz-transition:-moz-transform .3s ease-out;-ms-transition:-ms-transform .3s ease-out;-o-transition:-o-transform .3s ease-out;transition:transform .3s ease-out}.modal-video-movie-wrap iframe{position:absolute;top:0;left:0;width:100%;height:100%}.modal-video-close-btn{position:absolute;z-index:2;top:-45px;right:0;display:inline-block;width:35px;height:35px;overflow:hidden;border:none;background:transparent}@media(orientation:landscape){.modal-video-close-btn{top:0;right:-45px}}.modal-video-close-btn:before{transform:rotate(45deg)}.modal-video-close-btn:after{transform:rotate(-45deg)}.modal-video-close-btn:before,.modal-video-close-btn:after{content:\"\";position:absolute;height:2px;width:100%;top:50%;left:0;background:#fff;border-radius:5px;margin-top:-6px}\n",
+    ".article-card-skeleton[data-astro-cid-62u5ead6] .skeleton-item[data-astro-cid-62u5ead6]{background:linear-gradient(100deg,#fff0 40%,#ffffff80,#fff0 60%) var(--color-neutral-100);animation:1s var(--delay,0s) skeleton-loading ease-in-out infinite;background-position-x:180%;background-size:200% 100%}@keyframes skeleton-loading{to{background-position-x:-20%}}.swiper[data-astro-cid-hqypnfbr]{overflow:visible}.swiper-slide[data-astro-cid-hqypnfbr]{align-self:stretch;height:auto;display:flex}\n"
+  ],
+  "json_ld": [
+    "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https://www.sweep.net/fr/blog/vous-netes-plus-concerne-par-la-csrd-la-durabilite-reste-un-atout-pour-votre-entreprise#webpage\",\"url\":\"https://www.sweep.net/fr/blog/vous-netes-plus-concerne-par-la-csrd-la-durabilite-reste-un-atout-pour-votre-entreprise/\",\"name\":\"Vous n'\\u00eates plus concern\\u00e9 par la CSRD ? La durabilit\\u00e9 reste un atout pour votre entreprise - Sweep\",\"isPartOf\":{\"@id\":\"https://www.sweep.net/#website\"},\"datePublished\":\"2025-03-28T15:41:37+00:00\",\"dateModified\":\"2025-07-17T07:59:42+00:00\",\"description\":\"La durabilit\\u00e9 n'est pas une contrainte r\\u00e9glementaire : c'est un pilier de la r\\u00e9silience, et un avantage concurrentiel. Voici pourquoi.\",\"breadcrumb\":{\"@id\":\"https://www.sweep.net/fr/blog/vous-netes-plus-concerne-par-la-csrd-la-durabilite-reste-un-atout-pour-votre-entreprise/#breadcrumb\"},\"inLanguage\":\"fr-FR\",\"about\":{\"@id\":\"https://www.sweep.net/#organization\"}},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://www.sweep.net/fr/blog/vous-netes-plus-concerne-par-la-csrd-la-durabilite-reste-un-atout-pour-votre-entreprise/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://www.sweep.net/fr/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Blog\",\"item\":\"https://www.sweep.net/fr/blog/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Vous n&#8217;\\u00eates plus concern\\u00e9 par la CSRD ? La durabilit\\u00e9 reste un atout pour votre entreprise\",\"item\":\"https://www.sweep.net/fr/blog/vous-netes-plus-concerne-par-la-csrd-la-durabilite-reste-un-atout-pour-votre-entreprise/\"}]},{\"@type\":\"WebSite\",\"@id\":\"https://www.sweep.net/#website\",\"url\":\"https://www.sweep.net/\",\"name\":\"Sweep\",\"description\":\"Sweep turns sustainability data into business intelligence. Sweep&#039;s AI-powered platform helps enterprises with ESG reporting and carbon management.\",\"publisher\":{\"@id\":\"https://www.sweep.net/#organization\"},\"alternateName\":\"SWEEP\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://www.sweep.net/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"fr-FR\"},{\"@type\":\"Organization\",\"@id\":\"https://www.sweep.net/#organization\",\"name\":\"Sweep\",\"alternateName\":\"Sweep - Sustainability Intelligence Platform\",\"url\":\"https://www.sweep.net/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"fr-FR\",\"@id\":\"https://www.sweep.net/#/schema/logo/image/\",\"url\":\"https://www.sweep.net/app/uploads/2025/06/Frame13213151372-e1761820204758.png\",\"contentUrl\":\"https://www.sweep.net/app/uploads/2025/06/Frame13213151372-e1761820204758.png\",\"width\":293,\"height\":100,\"caption\":\"Sweep\"},\"image\":{\"@id\":\"https://www.sweep.net/#/schema/logo/image/\"},\"sameAs\":[\"https://www.linkedin.com/company/sweep-softwareforsustainability\",\"https://www.youtube.com/@SweepThePlanet\"],\"contactPoint\":{\"@type\":\"ContactPoint\",\"email\":\"hello@sweep.net\"},\"address\":{\"@type\":\"PostalAddress\",\"streetAddress\":\"FLEXO \\u2013 80 Rue Isabelle Eberhardt\",\"postalCode\":\"34000\",\"addressLocality\":\"Montpellier\",\"addressCountry\":\"FR\"},\"description\":\"Sweep is the sustainability intelligence platform that turns sustainability data into measurable business performance.\",\"email\":\"hello@sweep.net\",\"legalName\":\"Sweep SAS\",\"foundingDate\":\"2020-09-01\",\"vatID\":\"FR85883967879\",\"numberOfEmployees\":{\"@type\":\"QuantitativeValue\",\"minValue\":\"201\",\"maxValue\":\"500\"},\"ownershipFundingInfo\":\"https://www.sweep.net/about/\"}]}"
+  ],
+  "meta_tags": {
+    "viewport": "width=device-width, initial-scale=1.0",
+    "description": "La durabilité n'est pas une contrainte réglementaire : c'est un pilier de la résilience, et un avantage concurrentiel. Voici pourquoi.",
+    "generator": "Astro v6.3.7",
+    "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+    "og:locale": "fr-FR",
+    "og:type": "WebPage",
+    "og:title": "Vous n'êtes plus concerné par la CSRD ? La durabilité reste un atout pour votre entreprise - Sweep",
+    "og:description": "La durabilité n'est pas une contrainte réglementaire : c'est un pilier de la résilience, et un avantage concurrentiel. Voici pourquoi.",
+    "og:url": "https://www.sweep.net/fr/blog/vous-netes-plus-concerne-par-la-csrd-la-durabilite-reste-un-atout-pour-votre-entreprise",
+    "og:site_name": "Sweep",
+    "og:updated_time": "2025-07-17T07:59:42+00:00",
+    "og:image": "/_astro/decarbonisation_webinar_lpheader1_Z2mesd4.webp",
+    "og:image:secure_url": "/_astro/decarbonisation_webinar_lpheader1_Z2mesd4.webp",
+    "og:image:width": "1240",
+    "og:image:height": "765",
+    "twitter:card": "summary_large_image",
+    "twitter:title": "Vous n'êtes plus concerné par la CSRD ? La durabilité reste un atout pour votre entreprise - Sweep",
+    "twitter:description": "La durabilité n'est pas une contrainte réglementaire : c'est un pilier de la résilience, et un avantage concurrentiel. Voici pourquoi.",
+    "twitter:image": "/_astro/decarbonisation_webinar_lpheader1_Z2mesd4.webp",
+    "msapplication-TileColor": "#283fff",
+    "msapplication-config": "/favicons/browserconfig.xml",
+    "theme-color": "#283fff"
+  },
+  "link_tags": [
+    {
+      "rel": [
+        "canonical"
+      ],
+      "href": "https://www.sweep.net/fr/blog/vous-netes-plus-concerne-par-la-csrd-la-durabilite-reste-un-atout-pour-votre-entreprise"
+    },
+    {
+      "rel": [
+        "apple-touch-icon"
+      ],
+      "sizes": "180x180",
+      "href": "/favicons/apple-touch-icon.png"
+    },
+    {
+      "rel": [
+        "icon"
+      ],
+      "type": "image/png",
+      "sizes": "32x32",
+      "href": "/favicons/favicon-32x32.png"
+    },
+    {
+      "rel": [
+        "icon"
+      ],
+      "type": "image/png",
+      "sizes": "16x16",
+      "href": "/favicons/favicon-16x16.png"
+    },
+    {
+      "rel": [
+        "manifest"
+      ],
+      "href": "/favicons/site.webmanifest"
+    },
+    {
+      "rel": [
+        "mask-icon"
+      ],
+      "href": "/favicons/safari-pinned-tab.svg",
+      "color": "#283fff"
+    },
+    {
+      "rel": [
+        "shortcut",
+        "icon"
+      ],
+      "href": "/favicons/favicon.ico"
+    },
+    {
+      "rel": [
+        "preload"
+      ],
+      "href": "/_astro/fonts/b63d263538eb5c08.woff2",
+      "as": "font",
+      "type": "font/woff2",
+      "crossorigin": ""
+    },
+    {
+      "rel": [
+        "preload"
+      ],
+      "href": "/_astro/fonts/123fab1dee5d0200.woff2",
+      "as": "font",
+      "type": "font/woff2",
+      "crossorigin": ""
+    },
+    {
+      "rel": [
+        "preload"
+      ],
+      "href": "/_astro/fonts/5b3f8264d8aa7fec.woff2",
+      "as": "font",
+      "type": "font/woff2",
+      "crossorigin": ""
+    },
+    {
+      "rel": [
+        "sitemap"
+      ],
+      "href": "/sitemap-index.xml"
+    },
+    {
+      "rel": [
+        "stylesheet"
+      ],
+      "href": "/_astro/swiper-bundle.C3pJtvjs.css"
+    },
+    {
+      "rel": [
+        "stylesheet"
+      ],
+      "href": "/_astro/Layout.CA3wCqUP.css"
+    },
+    {
+      "rel": [
+        "stylesheet"
+      ],
+      "href": "/_astro/ModulesIncluder.B9brtxwE.css"
+    }
+  ]
+}

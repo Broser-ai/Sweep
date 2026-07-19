@@ -1,0 +1,208 @@
+{
+  "scripts": [
+    {
+      "src": "",
+      "type": "text/javascript",
+      "inline": "(function(){const GTM_CODE = \"GTM-MKL4GSS\";\n\n  (function (w, d, s, l, i) {\n    w[l] = w[l] || [];\n    w[l].push({ 'gtm.start': Date.now(), event: 'gtm.js' });\n    const f = d.getElementsByTagName(s)[0];\n    const j = d.createElement(s);\n    const dl = l !== 'dataLayer' ? `&l=${l}` : '';\n    j.async = true;\n    j.src = `https://www.googletagmanager.com/gtm.js?id=${i}${dl}`;\n    f.parentNode.insertBefore(j, f);\n  })(window, document, 'script', 'dataLayer', GTM_CODE);\n})();"
+    },
+    {
+      "src": "",
+      "type": "application/ld+json",
+      "inline": "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https://www.sweep.net/sustainability-reporting#webpage\",\"url\":\"https://www.sweep.net/sustainability-reporting/\",\"name\":\"Intelligent sustainability reporting - Sweep\",\"isPartOf\":{\"@id\":\"https://www.sweep.net/#website\"},\"datePublished\":\"2026-05-29T13:41:06+00:00\",\"dateModified\":\"2026-06-23T10:32:38+00:00\",\"description\":\"Turn your ESG and carbon data into audit-ready sustainability disclosures. Map one dataset to CSRD, GRI, ISSB, CDP, and more. Report once, file everywhere.\",\"breadcrumb\":{\"@id\":\"https://www.sweep.net/sustainability-reporting/#breadcrumb\"},\"inLanguage\":\"en-US\",\"about\":{\"@id\":\"https://www.sweep.net/#organization\"}},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://www.sweep.net/sustainability-reporting/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://www.sweep.net/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Intelligent sustainability reporting\",\"item\":\"https://www.sweep.net/sustainability-reporting/\"}]},{\"@type\":\"WebSite\",\"@id\":\"https://www.sweep.net/#website\",\"url\":\"https://www.sweep.net/\",\"name\":\"Sweep\",\"description\":\"Sweep is the sustainability intelligence platform that turns sustainability data into measurable business performance.\",\"publisher\":{\"@id\":\"https://www.sweep.net/#organization\"},\"alternateName\":\"SWEEP\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://www.sweep.net/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"},{\"@type\":\"Organization\",\"@id\":\"https://www.sweep.net/#organization\",\"name\":\"Sweep\",\"alternateName\":\"Sweep - Sustainability Intelligence Platform\",\"url\":\"https://www.sweep.net/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https://www.sweep.net/#/schema/logo/image/\",\"url\":\"https://www.sweep.net/app/uploads/2025/06/Frame13213151372-e1761820204758.png\",\"contentUrl\":\"https://www.sweep.net/app/uploads/2025/06/Frame13213151372-e1761820204758.png\",\"width\":293,\"height\":100,\"caption\":\"Sweep\"},\"image\":{\"@id\":\"https://www.sweep.net/#/schema/logo/image/\"},\"sameAs\":[\"https://www.linkedin.com/company/sweep-softwareforsustainability\",\"https://www.youtube.com/@SweepThePlanet\"],\"contactPoint\":{\"@type\":\"ContactPoint\",\"email\":\"hello@sweep.net\"},\"address\":{\"@type\":\"PostalAddress\",\"streetAddress\":\"FLEXO \\u2013 80 Rue Isabelle Eberhardt\",\"postalCode\":\"34000\",\"addressLocality\":\"Montpellier\",\"addressCountry\":\"FR\"},\"description\":\"Sweep is the sustainability intelligence platform that turns sustainability data into measurable business performance.\",\"email\":\"hello@sweep.net\",\"legalName\":\"Sweep SAS\",\"foundingDate\":\"2020-09-01\",\"vatID\":\"FR85883967879\",\"numberOfEmployees\":{\"@type\":\"QuantitativeValue\",\"minValue\":\"201\",\"maxValue\":\"500\"},\"ownershipFundingInfo\":\"https://www.sweep.net/about/\"},{\"@type\":\"FAQPage\",\"@id\":\"https://www.sweep.net/sustainability-reporting#faq\",\"mainEntity\":[{\"@type\":\"Question\",\"name\":\"What is sustainability reporting software, and why do organizations need it?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Sustainability reporting software is a management platform that enables organizations to collect, centralize, analyze, and disclose their environmental, social, and governance (ESG) data in a structured, auditable way. A sustainability report is a formal document that communicates an organization&#8217;s ESG performance and long-term strategy to internal and external stakeholders, including investors, employees, customers, and regulators. Providing transparent, verifiable data builds credibility with investors, customers, and regulators who demand accountability, making the quality and reliability of sustainability data a strategic business priority.\\nSustainability reporting is no longer optional. It is central to how businesses prove transparency, manage compliance, reduce their carbon footprint, and build stakeholder trust. Key regulatory drivers include:\\n\\nThe Corporate Sustainability Reporting Directive (CSRD), now mandatory in the European Union, requiring organizations to disclose their sustainability performance and impacts to a significantly higher standard than previous directives.\\nInternational Sustainability Standards Board (ISSB) disclosure standards, being adopted globally in the UK, Japan, and Australia.\\nCalifornia SB 253 and SB 261, adding significant new compliance obligations for companies operating in the US market.\\n\\nA significant number of companies still rely on spreadsheets for sustainability reporting, which are inadequate for managing the complexity and volume of data required by CSRD and ISSB standards. The process of collecting, analyzing, and reporting ESG data can be complex and costly, which is why leading organizations use purpose-built sustainability reporting software to streamline data collection, produce regulatory-grade reports, and surface actionable insights about impro"
+    },
+    {
+      "src": "",
+      "type": "",
+      "inline": "(function(){const TRANSLATIONS = {\"source\":\"Source\",\"all\":\"All\",\"customer\":\"Customer\",\"home\":\"Home\",\"event\":\"EVENT\",\"blog\":\"The latest from Sweep's thought leaders\",\"pastEvent\":\"PAST EVENT\",\"readMore\":\"Read more\",\"loadMore\":\"Load more\",\"viewCaseStudy\":\"View Case Study\",\"size\":\"Size\",\"industry\":\"Industry\",\"headquarters\":\"Headquarters\",\"website\":\"Website\",\"category\":\"Category\",\"company\":\"Company\",\"lastUpdated\":\"Last updated\",\"hubspotForm\":{\"defaultPrivacyPolicyText\":\"\\u003cp>DEFAULT PRIVACY POLICY TEXT\\u003c/p>\\n\",\"formMessageThankYou\":\"Thanks for your interest in Sweep. We will be in touch shortly.\",\"formSubmissionFailedMessage\":\"SUBMISSION FAILED\",\"submit\":\"Submit\",\"submitting\":\"Submitting\",\"skipThisStep\":\"Skip this step\",\"selectDateAndTime\":\"Select date and time\"},\"sidebar\":{\"author\":\"Author\",\"download\":\"Download\",\"guide\":\"Guide\",\"joinUsLive\":\"Join us live in {location}\",\"joinUsOnline\":\"Join us online\",\"register\":\"Register\",\"tableOfContents\":\"Contents\"},\"eventInformation\":{\"date\":\"Date\",\"language\":\"Language\",\"location\":\"Location\",\"time\":\"Time\"},\"article\":{\"moreCustomerStories\":\"More customer stories\",\"moreEvents\":\"More events\",\"moreStories\":\"More stories\"},\"newsletterSection\":{\"formSuccessMessage\":\"SUBMISSION SUCCESS\",\"signUp\":\"Sign Up\"},\"error404\":{\"pageTitle\":\"Page not found\"}};\nconst PAGE_TRANSLATIONS = [{\"uri\":\"/sustainability-reporting/\",\"languageName\":\"English\",\"languageCode\":\"en\",\"isCurrent\":true},{\"uri\":\"/fr/reporting-esg/\",\"languageName\":\"French\",\"languageCode\":\"fr\",\"isCurrent\":false},{\"uri\":\"/de/sweep-intelligentes-nachhaltigkeits-reporting/\",\"languageName\":\"German\",\"languageCode\":\"de\",\"isCurrent\":false}];\n\n      // Populate translations in client for React components\n      window.TRANSLATIONS = TRANSLATIONS;\n      window.PAGE_TRANSLATIONS = PAGE_TRANSLATIONS;\n    })();"
+    },
+    {
+      "src": "",
+      "type": "",
+      "inline": "\n      (async function () {\n        const resp = await fetch(document.location.href, { method: 'HEAD' });\n        const headers = Object.fromEntries(resp.headers.entries());\n        const COUNTRY_HEADER_NAME = 'x-geolocation-country';\n        const countryHeader =\n          headers[COUNTRY_HEADER_NAME] &&\n          headers[COUNTRY_HEADER_NAME] !== 'UNKNOWN'\n            ? headers[COUNTRY_HEADER_NAME]\n            : undefined;\n        if (countryHeader) {\n          const html = document.documentElement;\n          const country = countryHeader\n            .trim()\n            .toUpperCase()\n            .replaceAll(' ', '-');\n\n          const style = document.createElement('style');\n          style.innerHTML = ` [data-regionalisation]:not([data-regionalisation~='${country}']){display:none!important}`;\n          html.append(style);\n        }\n      })();\n    "
+    },
+    {
+      "src": "/_astro/Layout.astro_astro_type_script_index_0_lang.rZx_Pqve.js",
+      "type": "module",
+      "inline": ""
+    },
+    {
+      "src": "/_astro/HeaderTopBar.astro_astro_type_script_index_0_lang.CYlzTvMq.js",
+      "type": "module",
+      "inline": ""
+    },
+    {
+      "src": "/_astro/Menu.astro_astro_type_script_index_0_lang.CfVobQKu.js",
+      "type": "module",
+      "inline": ""
+    },
+    {
+      "src": "/_astro/LanguageSwitcher.astro_astro_type_script_index_0_lang.Bv9qTMAS.js",
+      "type": "module",
+      "inline": ""
+    },
+    {
+      "src": "",
+      "type": "module",
+      "inline": "const r=document.querySelectorAll('button[data-action=\"toggle-menu\"]');for(const t of r)t.addEventListener(\"click\",()=>{const o=t.getAttribute(\"aria-controls\"),e=document.getElementById(o??\"\"),n=t.ariaPressed===\"true\",a=n?\"false\":\"true\";t.ariaPressed=a,e&&(e.ariaHidden=n?\"true\":\"false\")});"
+    },
+    {
+      "src": "/_astro/LanguageDialog.astro_astro_type_script_index_0_lang.D0g94lC1.js",
+      "type": "module",
+      "inline": ""
+    },
+    {
+      "src": "/_astro/quotations.astro_astro_type_script_index_0_lang.B1_FoNT4.js",
+      "type": "module",
+      "inline": ""
+    },
+    {
+      "src": "/_astro/LogosCollection.astro_astro_type_script_index_0_lang.BxjtmMa9.js",
+      "type": "module",
+      "inline": ""
+    },
+    {
+      "src": "/_astro/Tabs.astro_astro_type_script_index_0_lang.CxMbDWG4.js",
+      "type": "module",
+      "inline": ""
+    },
+    {
+      "src": "",
+      "type": "module",
+      "inline": "function i(e){const n=e.closest(\".accordion-row\");if(!n)return[];const t=n.parentElement;if(!t)return[];const r=Array.from(t?.children);return r?r.filter(o=>o!==n).map(o=>o.querySelector(\"details\")).filter(Boolean):[]}const l=document.querySelectorAll(\".accordion details\");for(const e of l)e.addEventListener(\"toggle\",()=>{if(e.open){const n=i(e);for(const t of n)t.open=!1}});"
+    }
+  ],
+  "styles": [
+    "@font-face{font-family:MaisonNeue-acc6d63081794627;src:url(\"/_astro/fonts/b63d263538eb5c08.woff2\") format(\"woff2\"), url(\"/_astro/fonts/28e07e20de8c9608.woff\") format(\"woff\");font-display:swap;font-weight:400;font-style:normal;}@font-face{font-family:MaisonNeue-acc6d63081794627;src:url(\"/_astro/fonts/123fab1dee5d0200.woff2\") format(\"woff2\"), url(\"/_astro/fonts/17bda73a4871dcf6.woff\") format(\"woff\");font-display:swap;font-weight:500;font-style:normal;}@font-face{font-family:MaisonNeue-acc6d63081794627;src:url(\"/_astro/fonts/5b3f8264d8aa7fec.woff2\") format(\"woff2\"), url(\"/_astro/fonts/6685f19f7e6b0ce0.woff\") format(\"woff\");font-display:swap;font-weight:700;font-style:normal;}@font-face{font-family:\"MaisonNeue-acc6d63081794627 fallback: Arial\";src:local(\"Arial\");font-display:swap;font-weight:400;font-style:normal;size-adjust:101.1663%;ascent-override:98.0564%;descent-override:33.2127%;line-gap-override:0%;}@font-face{font-family:\"MaisonNeue-acc6d63081794627 fallback: Arial\";src:local(\"Arial\");font-display:swap;font-weight:500;font-style:normal;size-adjust:101.1663%;ascent-override:98.0564%;descent-override:33.2127%;line-gap-override:0%;}@font-face{font-family:\"MaisonNeue-acc6d63081794627 fallback: Arial\";src:local(\"Arial\");font-display:swap;font-weight:700;font-style:normal;size-adjust:101.1663%;ascent-override:98.0564%;descent-override:33.2127%;line-gap-override:0%;}:root{--astro-font-maison-neue:MaisonNeue-acc6d63081794627,\"MaisonNeue-acc6d63081794627 fallback: Arial\",sans-serif;}",
+    "@keyframes modal-video{0%{opacity:0}to{opacity:1}}@keyframes modal-video-inner{0%{transform:translateY(100px)}to{transform:translate(0)}}.modal-video{position:fixed;top:0;left:0;width:100%;height:100%;background-color:#00000080;z-index:1000000;cursor:pointer;opacity:1;animation-timing-function:ease-out;animation-duration:.3s;animation-name:modal-video;-webkit-transition:opacity .3s ease-out;-moz-transition:opacity .3s ease-out;-ms-transition:opacity .3s ease-out;-o-transition:opacity .3s ease-out;transition:opacity .3s ease-out}.modal-video-close{opacity:0}.modal-video-close .modal-video-movie-wrap{-webkit-transform:translate(0,100px);-moz-transform:translate(0,100px);-ms-transform:translate(0,100px);-o-transform:translate(0,100px);transform:translateY(100px)}.modal-video-body{max-width:960px;width:100%;height:100%;margin:0 auto;padding:0 10px;display:flex;justify-content:center;box-sizing:border-box}.modal-video-inner{display:flex;justify-content:center;align-items:center;width:100%;height:100%}@media(orientation:landscape){.modal-video-inner{padding:10px 60px;box-sizing:border-box}}.modal-video-movie-wrap{width:100%;height:0;position:relative;padding-bottom:56.25%;background-color:#333;animation-timing-function:ease-out;animation-duration:.3s;animation-name:modal-video-inner;-webkit-transform:translate(0,0);-moz-transform:translate(0,0);-ms-transform:translate(0,0);-o-transform:translate(0,0);transform:translate(0);-webkit-transition:-webkit-transform .3s ease-out;-moz-transition:-moz-transform .3s ease-out;-ms-transition:-ms-transform .3s ease-out;-o-transition:-o-transform .3s ease-out;transition:transform .3s ease-out}.modal-video-movie-wrap iframe{position:absolute;top:0;left:0;width:100%;height:100%}.modal-video-close-btn{position:absolute;z-index:2;top:-45px;right:0;display:inline-block;width:35px;height:35px;overflow:hidden;border:none;background:transparent}@media(orientation:landscape){.modal-video-close-btn{top:0;right:-45px}}.modal-video-close-btn:before{transform:rotate(45deg)}.modal-video-close-btn:after{transform:rotate(-45deg)}.modal-video-close-btn:before,.modal-video-close-btn:after{content:\"\";position:absolute;height:2px;width:100%;top:50%;left:0;background:#fff;border-radius:5px;margin-top:-6px}\n",
+    ".swiper-slide[data-astro-cid-3ztgcoin]{height:auto}.swiper-pagination[data-astro-cid-3ztgcoin]{margin-top:calc(var(--spacing,.25rem) * 4.5);justify-content:center;gap:calc(var(--spacing,.25rem) * 2.5);--swiper-pagination-color:#283fff;--swiper-pagination-bullet-inactive-color:oklch(70.8% 0 0);--swiper-pagination-bullet-horizontal-gap:.875rem;display:flex;position:static}.swiper-pagination[data-astro-cid-3ztgcoin] .swiper-pagination-bullet{margin:calc(var(--spacing,.25rem) * 0)}@media(min-width:64rem){.container[data-astro-cid-7dqjn4zs]{grid-template-columns:calc(var(--spacing,.25rem) * 131) minmax(0,1fr)}}.swiper[data-astro-cid-fqyhxix2]{overflow:visible}.swiper-slide[data-astro-cid-fqyhxix2]{align-self:stretch;height:auto;display:flex}\n"
+  ],
+  "json_ld": [
+    "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https://www.sweep.net/sustainability-reporting#webpage\",\"url\":\"https://www.sweep.net/sustainability-reporting/\",\"name\":\"Intelligent sustainability reporting - Sweep\",\"isPartOf\":{\"@id\":\"https://www.sweep.net/#website\"},\"datePublished\":\"2026-05-29T13:41:06+00:00\",\"dateModified\":\"2026-06-23T10:32:38+00:00\",\"description\":\"Turn your ESG and carbon data into audit-ready sustainability disclosures. Map one dataset to CSRD, GRI, ISSB, CDP, and more. Report once, file everywhere.\",\"breadcrumb\":{\"@id\":\"https://www.sweep.net/sustainability-reporting/#breadcrumb\"},\"inLanguage\":\"en-US\",\"about\":{\"@id\":\"https://www.sweep.net/#organization\"}},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://www.sweep.net/sustainability-reporting/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://www.sweep.net/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Intelligent sustainability reporting\",\"item\":\"https://www.sweep.net/sustainability-reporting/\"}]},{\"@type\":\"WebSite\",\"@id\":\"https://www.sweep.net/#website\",\"url\":\"https://www.sweep.net/\",\"name\":\"Sweep\",\"description\":\"Sweep is the sustainability intelligence platform that turns sustainability data into measurable business performance.\",\"publisher\":{\"@id\":\"https://www.sweep.net/#organization\"},\"alternateName\":\"SWEEP\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://www.sweep.net/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"},{\"@type\":\"Organization\",\"@id\":\"https://www.sweep.net/#organization\",\"name\":\"Sweep\",\"alternateName\":\"Sweep - Sustainability Intelligence Platform\",\"url\":\"https://www.sweep.net/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https://www.sweep.net/#/schema/logo/image/\",\"url\":\"https://www.sweep.net/app/uploads/2025/06/Frame13213151372-e1761820204758.png\",\"contentUrl\":\"https://www.sweep.net/app/uploads/2025/06/Frame13213151372-e1761820204758.png\",\"width\":293,\"height\":100,\"caption\":\"Sweep\"},\"image\":{\"@id\":\"https://www.sweep.net/#/schema/logo/image/\"},\"sameAs\":[\"https://www.linkedin.com/company/sweep-softwareforsustainability\",\"https://www.youtube.com/@SweepThePlanet\"],\"contactPoint\":{\"@type\":\"ContactPoint\",\"email\":\"hello@sweep.net\"},\"address\":{\"@type\":\"PostalAddress\",\"streetAddress\":\"FLEXO \\u2013 80 Rue Isabelle Eberhardt\",\"postalCode\":\"34000\",\"addressLocality\":\"Montpellier\",\"addressCountry\":\"FR\"},\"description\":\"Sweep is the sustainability intelligence platform that turns sustainability data into measurable business performance.\",\"email\":\"hello@sweep.net\",\"legalName\":\"Sweep SAS\",\"foundingDate\":\"2020-09-01\",\"vatID\":\"FR85883967879\",\"numberOfEmployees\":{\"@type\":\"QuantitativeValue\",\"minValue\":\"201\",\"maxValue\":\"500\"},\"ownershipFundingInfo\":\"https://www.sweep.net/about/\"},{\"@type\":\"FAQPage\",\"@id\":\"https://www.sweep.net/sustainability-reporting#faq\",\"mainEntity\":[{\"@type\":\"Question\",\"name\":\"What is sustainability reporting software, and why do organizations need it?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Sustainability reporting software is a management platform that enables organizations to collect, centralize, analyze, and disclose their environmental, social, and governance (ESG) data in a structured, auditable way. A sustainability report is a formal document that communicates an organization&#8217;s ESG performance and long-term strategy to internal and external stakeholders, including investors, employees, customers, and regulators. Providing transparent, verifiable data builds credibility with investors, customers, and regulators who demand accountability, making the quality and reliability of sustainability data a strategic business priority.\\nSustainability reporting is no longer optional. It is central to how businesses prove transparency, manage compliance, reduce their carbon footprint, and build stakeholder trust. Key regulatory drivers include:\\n\\nThe Corporate Sustainability Reporting Directive (CSRD), now mandatory in the European Union, requiring organizations to disclose their sustainability performance and impacts to a significantly higher standard than previous directives.\\nInternational Sustainability Standards Board (ISSB) disclosure standards, being adopted globally in the UK, Japan, and Australia.\\nCalifornia SB 253 and SB 261, adding significant new compliance obligations for companies operating in the US market.\\n\\nA significant number of companies still rely on spreadsheets for sustainability reporting, which are inadequate for managing the complexity and volume of data required by CSRD and ISSB standards. The process of collecting, analyzing, and reporting ESG data can be complex and costly, which is why leading organizations use purpose-built sustainability reporting software to streamline data collection, produce regulatory-grade reports, and surface actionable insights about improvement strategies.\\nSweep&#8217;s ESG reporting software brings ESG and carbon data, materiality assessments, and disclosure workflows into one workspace, mapped to every framework an organization has to file. The result is a streamlined reporting process built on audit-ready data, accurate disclosures, and the real-time visibility needed to track progress and make strategic decisions.\\n\"}},{\"@type\":\"Question\",\"name\":\"Which sustainability reporting frameworks does Sweep support?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"In practice, most large businesses need to report to multiple sustainability reporting frameworks simultaneously, and the requirements overlap in complex ways. Sweep eliminates duplication by letting organizations map a single dataset to every framework they need to file. Supported standards include:\\n\\nCSRD (Corporate Sustainability Reporting Directive)\\nCalifornia SB 253 and SB 261\\nUK SRS (UK Sustainability Reporting Standards)\\nISSB (International Sustainability Standards Board)\\nGRI (Global Reporting Initiative)\\nSASB (Sustainability Accounting Standards Board)\\nCDP (Carbon Disclosure Project)\\nTCFD (Task Force on Climate-related Financial Disclosures)\\nGreenhouse Gas Protocol for carbon accounting across all three emission scopes\\n\\nPre-configured templates for global standards like GRI, SASB, and the EU&#8217;s CSRD map data to specific disclosure requirements automatically, with contextual guidance built in. Custom ESG modules can be layered on top for any bespoke sustainability reporting needs specific to your business or industry. This &#8220;report once, file everywhere&#8221; approach means teams are not rebuilding reports every time a new regulatory standard arrives.\\nSweep&#8217;s carbon accounting capabilities are built on the Greenhouse Gas Protocol, which provides a comprehensive global framework for measuring and managing emissions and is essential for effective carbon accounting practices. Scope 1, 2, and 3 emissions are critical components of carbon accounting: Scope 1 refers to direct emissions from owned or controlled sources, Scope 2 covers indirect emissions from the generation of purchased electricity, and Scope 3 includes all other indirect emissions that occur in a company&#8217;s value chain.\\nSpecialized tools in Sweep calculate Scope 1, 2, and 3 emissions using built-in emission factor libraries, ensuring accuracy for climate-related disclosures. Accurate carbon accounting is essential for organizations to meet regulatory compliance requirements and stakeholder expectations, as it enables them to track their emissions and develop strategies for reduction.\\n\"}},{\"@type\":\"Question\",\"name\":\"How does Sweep centralize ESG and carbon data for sustainability reporting?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Effective sustainability data management starts with data integration. Fragmented data across business units, geographies, and suppliers is one of the biggest barriers to accurate and efficient sustainability reporting. Sweep solves this by centralizing all ESG and carbon data into one collaborative workspace.\\nKey data management capabilities include:\\n\\nCentralized ESG and carbon data across entities, sites, and suppliers in one platform.\\nSystem integrations via connectors and APIs to pull data directly from ERP, HR, energy, procurement, and travel systems.\\nSupplier portals for direct collection of value chain and Scope 3 data, bringing the full emissions picture into one place.\\nVersion control on every figure and narrative, with a complete change history maintained automatically.\\nProcess automation that eliminates manual data entry, reduces errors, and removes reliance on spreadsheets entirely.\\n\\nAutomation eliminates manual data entry errors and identifies potential environmental or social risks before they escalate into financial liabilities, giving sustainability teams earlier visibility into issues that might otherwise surface only during an audit or regulatory review. Identifying inefficiencies in resource use also reveals immediate opportunities for operational cost reductions, meaning sustainability data delivers value well beyond compliance.\\nCentralizing ESG data ensures that all relevant sustainability metrics are collected and managed in one place, enhancing data accuracy and reducing the risk of inconsistencies across disclosures. Automation can shorten reporting cycles by up to 70% and reduce administrative labor costs considerably, enabling sustainability teams to redirect effort toward higher-value analysis.\\n\"}},{\"@type\":\"Question\",\"name\":\"How does Sweep deliver audit-ready sustainability reporting?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Audit-ready data management means every data point, calculation, and approval is fully traceable, documented, and available for third-party review at any time. This level of rigor is essential as CSRD requires mandatory external assurance of sustainability disclosures, and as investor and regulator scrutiny of ESG data continues to intensify. Providing transparent, verifiable data builds credibility with investors, customers, and regulators who demand accountability, and is increasingly a prerequisite for organizations seeking to maintain market trust.\\nAudit trails in Sweep maintain a permanent log of all data entries, calculations, and approvals, which is critical for external assurance and for protecting organizations against accusations of greenwashing. Sweep&#8217;s audit-ready capabilities include:\\n\\nFull data lineage from raw input to filed disclosure, with every figure traceable back to its original source.\\nMethodology and version history captured automatically at every step of the reporting process.\\nSophisticated governance workflows for disclosure approvals, with flexible controls tailored to your team&#8217;s structure.\\nAuditor access interface giving third-party reviewers direct, controlled visibility into the data and documentation they need.\\nSupport for limited assurance under CSRD today, with a clear pathway to reasonable assurance as phased requirements come into force.\\n\\nThis level of governance is what fundamentally separates Sweep from fragmented reporting tools and spreadsheet-based approaches. When an auditor arrives, the evidence is already there, organized, and complete.\\n\"}},{\"@type\":\"Question\",\"name\":\"How does AI accelerate the sustainability reporting process in Sweep?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Sweep&#8217;s domain-specific AI accelerates sustainability reporting at every stage of the disclosure process, while maintaining the quality and accuracy that regulatory reporting demands. Rather than replacing human judgment, the AI works alongside sustainability teams to reduce manual effort and surface issues before they become problems.\\nSweep&#8217;s AI-powered reporting capabilities include:\\n\\nData validation that automatically checks sustainability data for errors, gaps, and inconsistencies before disclosure.\\nNarrative drafting across all indicator types, generating high-quality disclosure responses based on live data from across the organization.\\nInconsistency detection that surfaces conflicting data points or methodology gaps before they reach the auditor.\\nAutomatic population of report indicators directly from connected data sources, reducing manual input to a minimum.\\nReal-time analytics that visualize key performance indicators through interactive dashboards, allowing teams to monitor progress toward net-zero targets continuously.\\n\\nBeyond reporting, this real-time visibility supports effective climate transition planning, which involves integrating sustainability into core business processes and ensuring that environmental considerations are part of strategic decision-making. Organizations should develop a climate transition plan that outlines specific actions, timelines, and responsibilities to achieve sustainability goals and reduce carbon emissions. A successful climate transition plan should include measurable targets, regular progress assessments, and stakeholder engagement to ensure accountability and transparency in sustainability efforts. Sweep&#8217;s analytics and goal-setting tools provide the data foundation to build and maintain exactly that kind of plan.\\n\"}},{\"@type\":\"Question\",\"name\":\"Why do organizations choose Sweep for ESG reporting over other sustainability reporting tools?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Sweep is recognized as a leader in ESG software solutions by independent analysts including IDC MarketScape and Verdantix, and has been selected by organizations including L&#8217;Or\\u00e9al, Orange, SSE, Swisscom, and Airbus. The reasons organizations choose Sweep over other ESG reporting solutions come down to depth, flexibility, and real-world performance.\\nWhere other sustainability reporting tools function primarily as a reporting layer on top of disconnected data sources, Sweep provides a structured foundation for managing the entire sustainability journey, from materiality assessment and data collection through to filed disclosure and ongoing performance management. Key differentiators include:\\n\\nOne integrated platform for ESG data management, carbon accounting, supplier engagement, materiality assessment, and multi-framework disclosure.\\nScalability across complex, decentralized organizations managing multiple entities, geographies, and supply chains.\\nFramework flexibility that accommodates CSRD, ISSB, GRI, CDP, US state laws, and custom internal ESG metrics simultaneously.\\nOperational efficiency through automation that eliminates spreadsheets, reduces reporting cycle times, and lowers administrative costs significantly.\\nStrategic value through carbon hotspot identification, reduction pathway simulation, and AI-driven recommendations that turn sustainability data into competitive advantage.\\n\\nSupplier engagement is another area where Sweep delivers measurable impact. Engaging suppliers in sustainability practices can significantly enhance a company&#8217;s overall ESG performance, as suppliers often contribute to a large portion of a company&#8217;s carbon footprint, particularly in Scope 3 emissions. Effective supplier engagement strategies include setting clear sustainability expectations, providing training and resources, and regularly assessing supplier performance against ESG criteria.\\nOrganizations that actively engage their suppliers in sustainability initiatives can improve their supply chain resilience and reduce risks associated with environmental compliance and reputational damage. Sweep&#8217;s supplier portals make all of this practical at scale, collecting value chain data directly and integrating it into the broader reporting and carbon accounting workflow.\\nStrong ESG performance supported by reliable, transparent data can also lead to preferential financing rates and help attract talent, particularly among Millennials and Gen Z who prioritize ethical employers when making career decisions. Sustainability reporting, done well with the right tools, is not just a compliance exercise; it is a strategic asset.\\n\"}}]},{\"@type\":\"Service\",\"@id\":\"https://www.sweep.net/sustainability-reporting#service\",\"name\":\"Sweep\",\"description\":\"Sweep is the sustainability intelligence platform that turns sustainability data into measurable business performance.\",\"serviceType\":\"Sustainability intelligence platform\",\"provider\":{\"@id\":\"https://www.sweep.net/#organization\"},\"url\":\"https://www.sweep.net/sustainability-reporting/\"}]}"
+  ],
+  "meta_tags": {
+    "viewport": "width=device-width, initial-scale=1.0",
+    "description": "Turn your ESG and carbon data into audit-ready sustainability disclosures. Map one dataset to CSRD, GRI, ISSB, CDP, and more. Report once, file everywhere.",
+    "generator": "Astro v6.3.7",
+    "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+    "og:locale": "en-US",
+    "og:type": "WebPage",
+    "og:title": "Intelligent sustainability reporting - Sweep",
+    "og:description": "Turn your ESG and carbon data into audit-ready sustainability disclosures. Map one dataset to CSRD, GRI, ISSB, CDP, and more. Report once, file everywhere.",
+    "og:url": "https://www.sweep.net/sustainability-reporting",
+    "og:site_name": "Sweep",
+    "og:updated_time": "2026-06-23T10:32:38+00:00",
+    "og:image": "/_astro/Header01-1_1vKDVT.svg",
+    "og:image:secure_url": "/_astro/Header01-1_1vKDVT.svg",
+    "og:image:width": "613",
+    "og:image:height": "504",
+    "twitter:card": "summary_large_image",
+    "twitter:title": "Intelligent sustainability reporting - Sweep",
+    "twitter:description": "Turn your ESG and carbon data into audit-ready sustainability disclosures. Map one dataset to CSRD, GRI, ISSB, CDP, and more. Report once, file everywhere.",
+    "twitter:image": "/_astro/Header01-1_1vKDVT.svg",
+    "msapplication-TileColor": "#283fff",
+    "msapplication-config": "/favicons/browserconfig.xml",
+    "theme-color": "#283fff"
+  },
+  "link_tags": [
+    {
+      "rel": [
+        "canonical"
+      ],
+      "href": "https://www.sweep.net/sustainability-reporting"
+    },
+    {
+      "rel": [
+        "apple-touch-icon"
+      ],
+      "sizes": "180x180",
+      "href": "/favicons/apple-touch-icon.png"
+    },
+    {
+      "rel": [
+        "icon"
+      ],
+      "type": "image/png",
+      "sizes": "32x32",
+      "href": "/favicons/favicon-32x32.png"
+    },
+    {
+      "rel": [
+        "icon"
+      ],
+      "type": "image/png",
+      "sizes": "16x16",
+      "href": "/favicons/favicon-16x16.png"
+    },
+    {
+      "rel": [
+        "manifest"
+      ],
+      "href": "/favicons/site.webmanifest"
+    },
+    {
+      "rel": [
+        "mask-icon"
+      ],
+      "href": "/favicons/safari-pinned-tab.svg",
+      "color": "#283fff"
+    },
+    {
+      "rel": [
+        "shortcut",
+        "icon"
+      ],
+      "href": "/favicons/favicon.ico"
+    },
+    {
+      "rel": [
+        "preload"
+      ],
+      "href": "/_astro/fonts/b63d263538eb5c08.woff2",
+      "as": "font",
+      "type": "font/woff2",
+      "crossorigin": ""
+    },
+    {
+      "rel": [
+        "preload"
+      ],
+      "href": "/_astro/fonts/123fab1dee5d0200.woff2",
+      "as": "font",
+      "type": "font/woff2",
+      "crossorigin": ""
+    },
+    {
+      "rel": [
+        "preload"
+      ],
+      "href": "/_astro/fonts/5b3f8264d8aa7fec.woff2",
+      "as": "font",
+      "type": "font/woff2",
+      "crossorigin": ""
+    },
+    {
+      "rel": [
+        "sitemap"
+      ],
+      "href": "/sitemap-index.xml"
+    },
+    {
+      "rel": [
+        "stylesheet"
+      ],
+      "href": "/_astro/swiper-bundle.C3pJtvjs.css"
+    },
+    {
+      "rel": [
+        "stylesheet"
+      ],
+      "href": "/_astro/ModulesIncluder.B9brtxwE.css"
+    },
+    {
+      "rel": [
+        "stylesheet"
+      ],
+      "href": "/_astro/Layout.CA3wCqUP.css"
+    }
+  ]
+}

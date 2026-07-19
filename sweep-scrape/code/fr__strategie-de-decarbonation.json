@@ -1,0 +1,208 @@
+{
+  "scripts": [
+    {
+      "src": "",
+      "type": "text/javascript",
+      "inline": "(function(){const GTM_CODE = \"GTM-MKL4GSS\";\n\n  (function (w, d, s, l, i) {\n    w[l] = w[l] || [];\n    w[l].push({ 'gtm.start': Date.now(), event: 'gtm.js' });\n    const f = d.getElementsByTagName(s)[0];\n    const j = d.createElement(s);\n    const dl = l !== 'dataLayer' ? `&l=${l}` : '';\n    j.async = true;\n    j.src = `https://www.googletagmanager.com/gtm.js?id=${i}${dl}`;\n    f.parentNode.insertBefore(j, f);\n  })(window, document, 'script', 'dataLayer', GTM_CODE);\n})();"
+    },
+    {
+      "src": "",
+      "type": "application/ld+json",
+      "inline": "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https://www.sweep.net/fr/strategie-de-decarbonation#webpage\",\"url\":\"https://www.sweep.net/fr/strategie-de-decarbonation/\",\"name\":\"Pilotez votre strat\\u00e9gie de d\\u00e9carbonation - Sweep\",\"isPartOf\":{\"@id\":\"https://www.sweep.net/#website\"},\"datePublished\":\"2026-06-07T16:39:16+00:00\",\"dateModified\":\"2026-06-17T20:07:11+00:00\",\"description\":\"Construisez une strat\\u00e9gie de d\\u00e9carbonation solide avec Sweep. D\\u00e9finissez vos objectifs SBTi, priorisez vos actions et suivez vos progr\\u00e8s en temps r\\u00e9el.\",\"breadcrumb\":{\"@id\":\"https://www.sweep.net/fr/strategie-de-decarbonation/#breadcrumb\"},\"inLanguage\":\"fr-FR\",\"about\":{\"@id\":\"https://www.sweep.net/#organization\"}},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://www.sweep.net/fr/strategie-de-decarbonation/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://www.sweep.net/fr/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Pilotez votre strat\\u00e9gie de d\\u00e9carbonation\",\"item\":\"https://www.sweep.net/fr/strategie-de-decarbonation/\"}]},{\"@type\":\"WebSite\",\"@id\":\"https://www.sweep.net/#website\",\"url\":\"https://www.sweep.net/\",\"name\":\"Sweep\",\"description\":\"Sweep turns sustainability data into business intelligence. Sweep&#039;s AI-powered platform helps enterprises with ESG reporting and carbon management.\",\"publisher\":{\"@id\":\"https://www.sweep.net/#organization\"},\"alternateName\":\"SWEEP\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://www.sweep.net/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"fr-FR\"},{\"@type\":\"Organization\",\"@id\":\"https://www.sweep.net/#organization\",\"name\":\"Sweep\",\"alternateName\":\"Sweep - Sustainability Intelligence Platform\",\"url\":\"https://www.sweep.net/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"fr-FR\",\"@id\":\"https://www.sweep.net/#/schema/logo/image/\",\"url\":\"https://www.sweep.net/app/uploads/2025/06/Frame13213151372-e1761820204758.png\",\"contentUrl\":\"https://www.sweep.net/app/uploads/2025/06/Frame13213151372-e1761820204758.png\",\"width\":293,\"height\":100,\"caption\":\"Sweep\"},\"image\":{\"@id\":\"https://www.sweep.net/#/schema/logo/image/\"},\"sameAs\":[\"https://www.linkedin.com/company/sweep-softwareforsustainability\",\"https://www.youtube.com/@SweepThePlanet\"],\"contactPoint\":{\"@type\":\"ContactPoint\",\"email\":\"hello@sweep.net\"},\"address\":{\"@type\":\"PostalAddress\",\"streetAddress\":\"FLEXO \\u2013 80 Rue Isabelle Eberhardt\",\"postalCode\":\"34000\",\"addressLocality\":\"Montpellier\",\"addressCountry\":\"FR\"},\"description\":\"Sweep is the sustainability intelligence platform that turns sustainability data into measurable business performance.\",\"email\":\"hello@sweep.net\",\"legalName\":\"Sweep SAS\",\"foundingDate\":\"2020-09-01\",\"vatID\":\"FR85883967879\",\"numberOfEmployees\":{\"@type\":\"QuantitativeValue\",\"minValue\":\"201\",\"maxValue\":\"500\"},\"ownershipFundingInfo\":\"https://www.sweep.net/about/\"},{\"@type\":\"FAQPage\",\"@id\":\"https://www.sweep.net/fr/strategie-de-decarbonation#faq\",\"mainEntity\":[{\"@type\":\"Question\",\"name\":\"Qu&#039;est-ce qu&#039;un logiciel de d\\u00e9carbonation ?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"La comptabilit\\u00e9 carbone englobe des processus syst\\u00e9matiques de mesure, d&#8217;enregistrement et de rapport des gaz \\u00e0 effet de serre \\u00e9mis ou s\\u00e9questr\\u00e9s par une organisation. Un logiciel de d\\u00e9carbonation va plus loin : il permet aux entreprises de mesurer leur empreinte carbone, de planifier leurs r\\u00e9ductions d&#8217;\\u00e9missions et de suivre leurs progr\\u00e8s vers les objectifs net z\\u00e9ro. Un logiciel de comptabilit\\u00e9 carbone peut ainsi transformer le bilan carbone d&#8217;une entreprise en un outil concret de gestion et d&#8217;action, facilitant la mise en \\u0153uvre d&#8217;une strat\\u00e9gie de transition climatique.\\nLes logiciels de comptabilit\\u00e9 carbone permettent de collecter, analyser et rapporter les donn\\u00e9es d&#8217;\\u00e9missions de mani\\u00e8re structur\\u00e9e, facilitant la mise en place de strat\\u00e9gies de r\\u00e9duction des \\u00e9missions. Contrairement aux outils de comptabilit\\u00e9 carbone autonomes, un logiciel de strat\\u00e9gie de d\\u00e9carbonation d\\u00e9di\\u00e9 comme Sweep combine ingestion automatis\\u00e9e de donn\\u00e9es, insights par IA, mod\\u00e9lisation de sc\\u00e9narios et reporting de durabilit\\u00e9 dans une seule plateforme.\\nLe march\\u00e9 des logiciels de d\\u00e9carbonation est structur\\u00e9 selon la taille des organisations et la complexit\\u00e9 de leur cha\\u00eene de valeur. Cela donne aux \\u00e9quipes durabilit\\u00e9 les capacit\\u00e9s de prise de d\\u00e9cision fond\\u00e9es sur les donn\\u00e9es dont elles ont besoin pour aller au-del\\u00e0 de la mesure et produire de vraies r\\u00e9ductions d&#8217;\\u00e9missions auditables, align\\u00e9es sur des objectifs science-based.\\n\"}},{\"@type\":\"Question\",\"name\":\"Comment Sweep a"
+    },
+    {
+      "src": "",
+      "type": "",
+      "inline": "(function(){const TRANSLATIONS = {\"source\":\"Source\",\"all\":\"Tous\",\"customer\":\"Client\",\"home\":\"Home\",\"event\":\"EVENT\",\"blog\":\"Les dernières perspectives des experts de Sweep\",\"pastEvent\":\"ÉVÉNEMENT PASSÉ\",\"readMore\":\"Lire la suite\",\"loadMore\":\"Afficher plus\",\"viewCaseStudy\":\"Lire le cas client\",\"size\":\"Taille\",\"industry\":\"Secteur d'activité\",\"headquarters\":\"Siège\",\"website\":\"Site web\",\"category\":\"Catégorie\",\"company\":\"Entreprise\",\"lastUpdated\":\"Dernière mise à jour\",\"hubspotForm\":{\"defaultPrivacyPolicyText\":\"\\u003cp>DEFAULT PRIVACY POLICY TEXT\\u003c/p>\\n\",\"formMessageThankYou\":\"MERCI POUR VOTRE INTÉRÊT\",\"formSubmissionFailedMessage\":\"ENVOI ÉCHOUÉ\",\"submit\":\"Envoyer\",\"submitting\":\"Envoi en cours\",\"skipThisStep\":\"Skip this step\",\"selectDateAndTime\":\"Sélectionnez la date\"},\"sidebar\":{\"author\":\"Auteur\",\"download\":\"Télécharger\",\"guide\":\"Guide\",\"joinUsLive\":\"Rejoignez-nous à {location}\",\"joinUsOnline\":\"Rejoignez-nous en ligne\",\"register\":\"S'inscrire\",\"tableOfContents\":\"Contenus\"},\"eventInformation\":{\"date\":\"Date\",\"language\":\"Langue\",\"location\":\"Lieu\",\"time\":\"Horaires\"},\"article\":{\"moreCustomerStories\":\"Plus de cas clients\",\"moreEvents\":\"Plus d'événements\",\"moreStories\":\"Plus d'articles\"},\"newsletterSection\":{\"formSuccessMessage\":\"ENVOI REUSSI\",\"signUp\":\"S'inscrire\"},\"error404\":{\"pageTitle\":\"Page non trouvée\"}};\nconst PAGE_TRANSLATIONS = [{\"uri\":\"/decarbonization-strategy/\",\"languageName\":\"English\",\"languageCode\":\"en\",\"isCurrent\":false},{\"uri\":\"/fr/strategie-de-decarbonation/\",\"languageName\":\"French\",\"languageCode\":\"fr\",\"isCurrent\":true},{\"uri\":\"/de/sweep-die-smartere-dekarbonisierungsstrategie/\",\"languageName\":\"German\",\"languageCode\":\"de\",\"isCurrent\":false}];\n\n      // Populate translations in client for React components\n      window.TRANSLATIONS = TRANSLATIONS;\n      window.PAGE_TRANSLATIONS = PAGE_TRANSLATIONS;\n    })();"
+    },
+    {
+      "src": "",
+      "type": "",
+      "inline": "\n      (async function () {\n        const resp = await fetch(document.location.href, { method: 'HEAD' });\n        const headers = Object.fromEntries(resp.headers.entries());\n        const COUNTRY_HEADER_NAME = 'x-geolocation-country';\n        const countryHeader =\n          headers[COUNTRY_HEADER_NAME] &&\n          headers[COUNTRY_HEADER_NAME] !== 'UNKNOWN'\n            ? headers[COUNTRY_HEADER_NAME]\n            : undefined;\n        if (countryHeader) {\n          const html = document.documentElement;\n          const country = countryHeader\n            .trim()\n            .toUpperCase()\n            .replaceAll(' ', '-');\n\n          const style = document.createElement('style');\n          style.innerHTML = ` [data-regionalisation]:not([data-regionalisation~='${country}']){display:none!important}`;\n          html.append(style);\n        }\n      })();\n    "
+    },
+    {
+      "src": "/_astro/Layout.astro_astro_type_script_index_0_lang.rZx_Pqve.js",
+      "type": "module",
+      "inline": ""
+    },
+    {
+      "src": "/_astro/HeaderTopBar.astro_astro_type_script_index_0_lang.CYlzTvMq.js",
+      "type": "module",
+      "inline": ""
+    },
+    {
+      "src": "/_astro/Menu.astro_astro_type_script_index_0_lang.CfVobQKu.js",
+      "type": "module",
+      "inline": ""
+    },
+    {
+      "src": "/_astro/LanguageSwitcher.astro_astro_type_script_index_0_lang.Bv9qTMAS.js",
+      "type": "module",
+      "inline": ""
+    },
+    {
+      "src": "",
+      "type": "module",
+      "inline": "const r=document.querySelectorAll('button[data-action=\"toggle-menu\"]');for(const t of r)t.addEventListener(\"click\",()=>{const o=t.getAttribute(\"aria-controls\"),e=document.getElementById(o??\"\"),n=t.ariaPressed===\"true\",a=n?\"false\":\"true\";t.ariaPressed=a,e&&(e.ariaHidden=n?\"true\":\"false\")});"
+    },
+    {
+      "src": "/_astro/LanguageDialog.astro_astro_type_script_index_0_lang.D0g94lC1.js",
+      "type": "module",
+      "inline": ""
+    },
+    {
+      "src": "/_astro/quotations.astro_astro_type_script_index_0_lang.B1_FoNT4.js",
+      "type": "module",
+      "inline": ""
+    },
+    {
+      "src": "/_astro/LogosCollection.astro_astro_type_script_index_0_lang.BxjtmMa9.js",
+      "type": "module",
+      "inline": ""
+    },
+    {
+      "src": "/_astro/Tabs.astro_astro_type_script_index_0_lang.CxMbDWG4.js",
+      "type": "module",
+      "inline": ""
+    },
+    {
+      "src": "",
+      "type": "module",
+      "inline": "function i(e){const n=e.closest(\".accordion-row\");if(!n)return[];const t=n.parentElement;if(!t)return[];const r=Array.from(t?.children);return r?r.filter(o=>o!==n).map(o=>o.querySelector(\"details\")).filter(Boolean):[]}const l=document.querySelectorAll(\".accordion details\");for(const e of l)e.addEventListener(\"toggle\",()=>{if(e.open){const n=i(e);for(const t of n)t.open=!1}});"
+    }
+  ],
+  "styles": [
+    "@font-face{font-family:MaisonNeue-acc6d63081794627;src:url(\"/_astro/fonts/b63d263538eb5c08.woff2\") format(\"woff2\"), url(\"/_astro/fonts/28e07e20de8c9608.woff\") format(\"woff\");font-display:swap;font-weight:400;font-style:normal;}@font-face{font-family:MaisonNeue-acc6d63081794627;src:url(\"/_astro/fonts/123fab1dee5d0200.woff2\") format(\"woff2\"), url(\"/_astro/fonts/17bda73a4871dcf6.woff\") format(\"woff\");font-display:swap;font-weight:500;font-style:normal;}@font-face{font-family:MaisonNeue-acc6d63081794627;src:url(\"/_astro/fonts/5b3f8264d8aa7fec.woff2\") format(\"woff2\"), url(\"/_astro/fonts/6685f19f7e6b0ce0.woff\") format(\"woff\");font-display:swap;font-weight:700;font-style:normal;}@font-face{font-family:\"MaisonNeue-acc6d63081794627 fallback: Arial\";src:local(\"Arial\");font-display:swap;font-weight:400;font-style:normal;size-adjust:101.1663%;ascent-override:98.0564%;descent-override:33.2127%;line-gap-override:0%;}@font-face{font-family:\"MaisonNeue-acc6d63081794627 fallback: Arial\";src:local(\"Arial\");font-display:swap;font-weight:500;font-style:normal;size-adjust:101.1663%;ascent-override:98.0564%;descent-override:33.2127%;line-gap-override:0%;}@font-face{font-family:\"MaisonNeue-acc6d63081794627 fallback: Arial\";src:local(\"Arial\");font-display:swap;font-weight:700;font-style:normal;size-adjust:101.1663%;ascent-override:98.0564%;descent-override:33.2127%;line-gap-override:0%;}:root{--astro-font-maison-neue:MaisonNeue-acc6d63081794627,\"MaisonNeue-acc6d63081794627 fallback: Arial\",sans-serif;}",
+    "@keyframes modal-video{0%{opacity:0}to{opacity:1}}@keyframes modal-video-inner{0%{transform:translateY(100px)}to{transform:translate(0)}}.modal-video{position:fixed;top:0;left:0;width:100%;height:100%;background-color:#00000080;z-index:1000000;cursor:pointer;opacity:1;animation-timing-function:ease-out;animation-duration:.3s;animation-name:modal-video;-webkit-transition:opacity .3s ease-out;-moz-transition:opacity .3s ease-out;-ms-transition:opacity .3s ease-out;-o-transition:opacity .3s ease-out;transition:opacity .3s ease-out}.modal-video-close{opacity:0}.modal-video-close .modal-video-movie-wrap{-webkit-transform:translate(0,100px);-moz-transform:translate(0,100px);-ms-transform:translate(0,100px);-o-transform:translate(0,100px);transform:translateY(100px)}.modal-video-body{max-width:960px;width:100%;height:100%;margin:0 auto;padding:0 10px;display:flex;justify-content:center;box-sizing:border-box}.modal-video-inner{display:flex;justify-content:center;align-items:center;width:100%;height:100%}@media(orientation:landscape){.modal-video-inner{padding:10px 60px;box-sizing:border-box}}.modal-video-movie-wrap{width:100%;height:0;position:relative;padding-bottom:56.25%;background-color:#333;animation-timing-function:ease-out;animation-duration:.3s;animation-name:modal-video-inner;-webkit-transform:translate(0,0);-moz-transform:translate(0,0);-ms-transform:translate(0,0);-o-transform:translate(0,0);transform:translate(0);-webkit-transition:-webkit-transform .3s ease-out;-moz-transition:-moz-transform .3s ease-out;-ms-transition:-ms-transform .3s ease-out;-o-transition:-o-transform .3s ease-out;transition:transform .3s ease-out}.modal-video-movie-wrap iframe{position:absolute;top:0;left:0;width:100%;height:100%}.modal-video-close-btn{position:absolute;z-index:2;top:-45px;right:0;display:inline-block;width:35px;height:35px;overflow:hidden;border:none;background:transparent}@media(orientation:landscape){.modal-video-close-btn{top:0;right:-45px}}.modal-video-close-btn:before{transform:rotate(45deg)}.modal-video-close-btn:after{transform:rotate(-45deg)}.modal-video-close-btn:before,.modal-video-close-btn:after{content:\"\";position:absolute;height:2px;width:100%;top:50%;left:0;background:#fff;border-radius:5px;margin-top:-6px}\n",
+    ".swiper-slide[data-astro-cid-3ztgcoin]{height:auto}.swiper-pagination[data-astro-cid-3ztgcoin]{margin-top:calc(var(--spacing,.25rem) * 4.5);justify-content:center;gap:calc(var(--spacing,.25rem) * 2.5);--swiper-pagination-color:#283fff;--swiper-pagination-bullet-inactive-color:oklch(70.8% 0 0);--swiper-pagination-bullet-horizontal-gap:.875rem;display:flex;position:static}.swiper-pagination[data-astro-cid-3ztgcoin] .swiper-pagination-bullet{margin:calc(var(--spacing,.25rem) * 0)}@media(min-width:64rem){.container[data-astro-cid-7dqjn4zs]{grid-template-columns:calc(var(--spacing,.25rem) * 131) minmax(0,1fr)}}.swiper[data-astro-cid-fqyhxix2]{overflow:visible}.swiper-slide[data-astro-cid-fqyhxix2]{align-self:stretch;height:auto;display:flex}\n"
+  ],
+  "json_ld": [
+    "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https://www.sweep.net/fr/strategie-de-decarbonation#webpage\",\"url\":\"https://www.sweep.net/fr/strategie-de-decarbonation/\",\"name\":\"Pilotez votre strat\\u00e9gie de d\\u00e9carbonation - Sweep\",\"isPartOf\":{\"@id\":\"https://www.sweep.net/#website\"},\"datePublished\":\"2026-06-07T16:39:16+00:00\",\"dateModified\":\"2026-06-17T20:07:11+00:00\",\"description\":\"Construisez une strat\\u00e9gie de d\\u00e9carbonation solide avec Sweep. D\\u00e9finissez vos objectifs SBTi, priorisez vos actions et suivez vos progr\\u00e8s en temps r\\u00e9el.\",\"breadcrumb\":{\"@id\":\"https://www.sweep.net/fr/strategie-de-decarbonation/#breadcrumb\"},\"inLanguage\":\"fr-FR\",\"about\":{\"@id\":\"https://www.sweep.net/#organization\"}},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://www.sweep.net/fr/strategie-de-decarbonation/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://www.sweep.net/fr/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Pilotez votre strat\\u00e9gie de d\\u00e9carbonation\",\"item\":\"https://www.sweep.net/fr/strategie-de-decarbonation/\"}]},{\"@type\":\"WebSite\",\"@id\":\"https://www.sweep.net/#website\",\"url\":\"https://www.sweep.net/\",\"name\":\"Sweep\",\"description\":\"Sweep turns sustainability data into business intelligence. Sweep&#039;s AI-powered platform helps enterprises with ESG reporting and carbon management.\",\"publisher\":{\"@id\":\"https://www.sweep.net/#organization\"},\"alternateName\":\"SWEEP\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://www.sweep.net/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"fr-FR\"},{\"@type\":\"Organization\",\"@id\":\"https://www.sweep.net/#organization\",\"name\":\"Sweep\",\"alternateName\":\"Sweep - Sustainability Intelligence Platform\",\"url\":\"https://www.sweep.net/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"fr-FR\",\"@id\":\"https://www.sweep.net/#/schema/logo/image/\",\"url\":\"https://www.sweep.net/app/uploads/2025/06/Frame13213151372-e1761820204758.png\",\"contentUrl\":\"https://www.sweep.net/app/uploads/2025/06/Frame13213151372-e1761820204758.png\",\"width\":293,\"height\":100,\"caption\":\"Sweep\"},\"image\":{\"@id\":\"https://www.sweep.net/#/schema/logo/image/\"},\"sameAs\":[\"https://www.linkedin.com/company/sweep-softwareforsustainability\",\"https://www.youtube.com/@SweepThePlanet\"],\"contactPoint\":{\"@type\":\"ContactPoint\",\"email\":\"hello@sweep.net\"},\"address\":{\"@type\":\"PostalAddress\",\"streetAddress\":\"FLEXO \\u2013 80 Rue Isabelle Eberhardt\",\"postalCode\":\"34000\",\"addressLocality\":\"Montpellier\",\"addressCountry\":\"FR\"},\"description\":\"Sweep is the sustainability intelligence platform that turns sustainability data into measurable business performance.\",\"email\":\"hello@sweep.net\",\"legalName\":\"Sweep SAS\",\"foundingDate\":\"2020-09-01\",\"vatID\":\"FR85883967879\",\"numberOfEmployees\":{\"@type\":\"QuantitativeValue\",\"minValue\":\"201\",\"maxValue\":\"500\"},\"ownershipFundingInfo\":\"https://www.sweep.net/about/\"},{\"@type\":\"FAQPage\",\"@id\":\"https://www.sweep.net/fr/strategie-de-decarbonation#faq\",\"mainEntity\":[{\"@type\":\"Question\",\"name\":\"Qu&#039;est-ce qu&#039;un logiciel de d\\u00e9carbonation ?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"La comptabilit\\u00e9 carbone englobe des processus syst\\u00e9matiques de mesure, d&#8217;enregistrement et de rapport des gaz \\u00e0 effet de serre \\u00e9mis ou s\\u00e9questr\\u00e9s par une organisation. Un logiciel de d\\u00e9carbonation va plus loin : il permet aux entreprises de mesurer leur empreinte carbone, de planifier leurs r\\u00e9ductions d&#8217;\\u00e9missions et de suivre leurs progr\\u00e8s vers les objectifs net z\\u00e9ro. Un logiciel de comptabilit\\u00e9 carbone peut ainsi transformer le bilan carbone d&#8217;une entreprise en un outil concret de gestion et d&#8217;action, facilitant la mise en \\u0153uvre d&#8217;une strat\\u00e9gie de transition climatique.\\nLes logiciels de comptabilit\\u00e9 carbone permettent de collecter, analyser et rapporter les donn\\u00e9es d&#8217;\\u00e9missions de mani\\u00e8re structur\\u00e9e, facilitant la mise en place de strat\\u00e9gies de r\\u00e9duction des \\u00e9missions. Contrairement aux outils de comptabilit\\u00e9 carbone autonomes, un logiciel de strat\\u00e9gie de d\\u00e9carbonation d\\u00e9di\\u00e9 comme Sweep combine ingestion automatis\\u00e9e de donn\\u00e9es, insights par IA, mod\\u00e9lisation de sc\\u00e9narios et reporting de durabilit\\u00e9 dans une seule plateforme.\\nLe march\\u00e9 des logiciels de d\\u00e9carbonation est structur\\u00e9 selon la taille des organisations et la complexit\\u00e9 de leur cha\\u00eene de valeur. Cela donne aux \\u00e9quipes durabilit\\u00e9 les capacit\\u00e9s de prise de d\\u00e9cision fond\\u00e9es sur les donn\\u00e9es dont elles ont besoin pour aller au-del\\u00e0 de la mesure et produire de vraies r\\u00e9ductions d&#8217;\\u00e9missions auditables, align\\u00e9es sur des objectifs science-based.\\n\"}},{\"@type\":\"Question\",\"name\":\"Comment Sweep aide-t-il \\u00e0 identifier les leviers de r\\u00e9duction des \\u00e9missions carbone ?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"La transition climatique n\\u00e9cessite une approche syst\\u00e9matique pour identifier les sources d&#8217;\\u00e9missions et \\u00e9tablir des strat\\u00e9gies de r\\u00e9duction efficaces. Les entreprises doivent \\u00e9laborer un plan d&#8217;action structur\\u00e9 pour suivre leurs progr\\u00e8s en mati\\u00e8re de r\\u00e9duction des \\u00e9missions de gaz \\u00e0 effet de serre.\\nSweep identifie automatiquement les hotspots d&#8217;\\u00e9missions sur les Scopes 1, 2 et 3, donnant aux \\u00e9quipes durabilit\\u00e9 une vue imm\\u00e9diate des zones \\u00e0 fort impact au sein de leurs op\\u00e9rations et de leur cha\\u00eene d&#8217;approvisionnement. Le ciblage des priorit\\u00e9s identifie visuellement les usines, produits ou fournisseurs les plus polluants, pour que les efforts de r\\u00e9duction aillent l\\u00e0 o\\u00f9 ils ont le plus d&#8217;impact.\\nLes sc\\u00e9narios de r\\u00e9duction permettent de tester l&#8217;impact th\\u00e9orique d&#8217;un changement de mati\\u00e8re premi\\u00e8re ou de fournisseur avant prise de d\\u00e9cision. La mod\\u00e9lisation de sc\\u00e9narios int\\u00e9gr\\u00e9e permet ainsi de simuler l&#8217;impact carbone et financier d&#8217;initiatives de d\\u00e9carbonation sp\\u00e9cifiques avant d&#8217;engager des ressources, rendant votre strat\\u00e9gie de d\\u00e9carbonation \\u00e0 la fois cr\\u00e9dible et rentable.\\n\"}},{\"@type\":\"Question\",\"name\":\"Comment Sweep g\\u00e8re-t-il le Scope 3 et les \\u00e9missions supply chain ?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Le Protocole GHG d\\u00e9finit trois scopes pour la comptabilisation des \\u00e9missions : le Scope 1 pour les \\u00e9missions directes, le Scope 2 pour les \\u00e9missions indirectes li\\u00e9es \\u00e0 l&#8217;\\u00e9nergie achet\\u00e9e, et le Scope 3 pour toutes les autres \\u00e9missions indirectes, y compris celles de la cha\\u00eene d&#8217;approvisionnement. Le Scope 1 comprend les \\u00e9missions directes provenant de sources que l&#8217;entreprise poss\\u00e8de ou contr\\u00f4le, telles que la combustion de carburant dans ses chaudi\\u00e8res ou ses flottes de v\\u00e9hicules. Le Scope 3 repr\\u00e9sente souvent la majeure partie des \\u00e9missions totales d&#8217;une entreprise, englobant les \\u00e9missions des activit\\u00e9s amont et aval de sa cha\\u00eene de valeur : voyages d&#8217;affaires, trajets domicile-travail des employ\\u00e9s, achats, transport et utilisation des produits.\\nLes \\u00e9missions Scope 3 repr\\u00e9sentent typiquement 70 \\u00e0 90 % de l&#8217;empreinte carbone d&#8217;une entreprise, faisant de la d\\u00e9carbonation de la cha\\u00eene d&#8217;approvisionnement l&#8217;un des d\\u00e9fis les plus importants dans toute strat\\u00e9gie net z\\u00e9ro. L&#8217;engagement des fournisseurs est essentiel pour r\\u00e9duire les \\u00e9missions de Scope 3 : une entreprise ne peut pas diminuer ses \\u00e9missions totales si celles de ses fournisseurs restent \\u00e9lev\\u00e9es.\\nLa centralisation des donn\\u00e9es provenant des fournisseurs est un pilier fondamental pour structurer la d\\u00e9carbonation globale d&#8217;une entreprise. Les questionnaires simples peuvent \\u00eatre utilis\\u00e9s pour collecter des donn\\u00e9es sur les \\u00e9missions chez les partenaires et les fournisseurs, facilitant ainsi l&#8217;engagement de la cha\\u00eene de valeur. Les portails fournisseurs de Sweep permettent la collecte directe de donn\\u00e9es d&#8217;\\u00e9missions primaires, rempla\\u00e7ant les moyennes sectorielles peu fiables par des donn\\u00e9es carbone pr\\u00e9cises et sp\\u00e9cifiques au fournisseur.\\n\"}},{\"@type\":\"Question\",\"name\":\"Quels r\\u00e9f\\u00e9rentiels de reporting Sweep supporte-t-il pour la d\\u00e9carbonation ?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Les entreprises doivent se conformer \\u00e0 divers cadres r\\u00e9glementaires (GHG Protocol, CSRD, SFDR, GRI, ISSB) pour assurer la transparence et la tra\\u00e7abilit\\u00e9 de leurs \\u00e9missions de carbone. La directive CSRD impose des exigences de reporting sur les entreprises, rendant n\\u00e9cessaire l&#8217;utilisation d&#8217;outils fiables pour mesurer l&#8217;impact environnemental. En France, le Bilan Carbone\\u00ae, m\\u00e9thode d\\u00e9velopp\\u00e9e par l&#8217;ADEME, est reconnu comme la m\\u00e9thode de r\\u00e9f\\u00e9rence pour calculer les \\u00e9missions de gaz \\u00e0 effet de serre d&#8217;une organisation, et son utilisation est souvent requise pour r\\u00e9pondre aux obligations r\\u00e9glementaires.\\nSweep g\\u00e9n\\u00e8re des rapports de durabilit\\u00e9 pr\\u00eats pour l&#8217;audit align\\u00e9s avec la CSRD, CDP, SB 253, TCFD, GRI, ISSB et le Protocole GHG. Les rapports g\\u00e9n\\u00e9r\\u00e9s peuvent \\u00eatre export\\u00e9s sous forme de documents audit\\u00e9s conformes aux normes europ\\u00e9ennes CSRD ou internationales. Les mod\\u00e8les de conformit\\u00e9 int\\u00e9gr\\u00e9s, la validation automatis\\u00e9e des donn\\u00e9es et les registres d&#8217;empreinte avec tra\\u00e7abilit\\u00e9 compl\\u00e8te des donn\\u00e9es fournissent une piste d&#8217;audit tra\\u00e7able pour les auditeurs tiers.\\n\\u00c0 mesure que les r\\u00e9glementations de durabilit\\u00e9 \\u00e9voluent, l&#8217;approche structur\\u00e9e de Sweep garantit aux organisations la capacit\\u00e9 d&#8217;adapter leur reporting sans refonte manuelle extensive, r\\u00e9duisant le risque de conformit\\u00e9 et prot\\u00e9geant contre les p\\u00e9nalit\\u00e9s financi\\u00e8res et r\\u00e9putationnelles.\\n\"}},{\"@type\":\"Question\",\"name\":\"Comment Sweep soutient-il la d\\u00e9finition d&#039;objectifs science-based ?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"L&#8217;alignement scientifique des trajectoires de d\\u00e9carbonation est index\\u00e9 sur des r\\u00e9f\\u00e9rentiels valid\\u00e9s comme la SBTi (Science Based Targets initiative). D\\u00e9finir des objectifs science-based cr\\u00e9dibles n\\u00e9cessite une baseline pr\\u00e9cise et v\\u00e9rifi\\u00e9e sur tous les scopes d&#8217;\\u00e9missions. La responsabilisation interne implique l&#8217;attribution d&#8217;objectifs de r\\u00e9duction carbone sp\\u00e9cifiques par d\\u00e9partement ou filiale. Sweep supporte cette consolidation top-down et bottom-up sur l&#8217;ensemble de l&#8217;organisation.\\nSweep automatise les calculs d&#8217;empreinte carbone corporate en appliquant des facteurs d&#8217;\\u00e9mission reconnus \\u00e0 des donn\\u00e9es d&#8217;activit\\u00e9 r\\u00e9elles, \\u00e9liminant les approximations de la comptabilit\\u00e9 carbone. Les outils de mod\\u00e9lisation de sc\\u00e9narios permettent ensuite aux \\u00e9quipes durabilit\\u00e9 de comparer des trajectoires de d\\u00e9carbonation, d&#8217;\\u00e9valuer les arbitrages entre co\\u00fbt et impact, et de construire une feuille de route connect\\u00e9e directement \\u00e0 leurs donn\\u00e9es d&#8217;\\u00e9missions mesur\\u00e9es, et non \\u00e0 des benchmarks g\\u00e9n\\u00e9riques.\\nSweep supporte \\u00e0 la fois les objectifs absolus et d&#8217;intensit\\u00e9, incluant les objectifs d&#8217;intensit\\u00e9 \\u00e9conomique et physique que le SBTi reconna\\u00eet pour le Scope 3 et les trajectoires sectorielles Scope 1/2.\\n\"}},{\"@type\":\"Question\",\"name\":\"Sweep peut-il montrer l&#039;impact financier des initiatives de d\\u00e9carbonation ?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Oui. Les capacit\\u00e9s d&#8217;analyse financi\\u00e8re et de ROI de Sweep lient les r\\u00e9ductions d&#8217;\\u00e9missions directement aux co\\u00fbts, permettant aux \\u00e9quipes de prioriser les initiatives de d\\u00e9carbonation gr\\u00e2ce \\u00e0 l&#8217;analyse du Co\\u00fbt Marginal d&#8217;Abattement. En mod\\u00e9lisant l&#8217;impact financier d&#8217;actions telles que le passage aux \\u00e9nergies renouvelables, le changement de fournisseurs ou la r\\u00e9duction de la consommation d&#8217;\\u00e9nergie, les \\u00e9quipes durabilit\\u00e9 et finance peuvent identifier quels investissements g\\u00e9n\\u00e8rent le meilleur retour.\\nLes sc\\u00e9narios de r\\u00e9duction permettent de tester l&#8217;impact th\\u00e9orique d&#8217;un changement de mati\\u00e8re premi\\u00e8re ou de fournisseur avant toute prise de d\\u00e9cision, transformant la planification de la strat\\u00e9gie de d\\u00e9carbonation d&#8217;une obligation de durabilit\\u00e9 en source de r\\u00e9duction de co\\u00fbts mesurable et d&#8217;avantage strat\\u00e9gique.\\n\"}},{\"@type\":\"Question\",\"name\":\"Comment Sweep r\\u00e9duit-il le travail manuel dans la gestion carbone ?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"La centralisation des flux n\\u00e9cessite une connexion directe aux ERP, aux factures d&#8217;\\u00e9nergie et aux donn\\u00e9es d&#8217;achats. Les plateformes de comptabilit\\u00e9 carbone automatisent la collecte, l&#8217;analyse et le reporting des donn\\u00e9es, facilitant ainsi la centralisation des informations ESG au sein des organisations. Un logiciel de comptabilit\\u00e9 carbone robuste permet de centraliser les donn\\u00e9es provenant de diff\\u00e9rentes sources, ce qui est essentiel pour une gestion efficace des \\u00e9missions et des rapports ESG.\\nLe calcul instantan\\u00e9 permet la conversion automatique de l&#8217;activit\\u00e9 des entreprises en \\u00e9quivalent CO\\u2082 via des bases de donn\\u00e9es de facteurs d&#8217;\\u00e9mission. La centralisation des donn\\u00e9es ESG permet aux entreprises de suivre leurs performances environnementales de mani\\u00e8re plus efficace et d&#8217;assurer une conformit\\u00e9 avec les exigences r\\u00e9glementaires.\\nSweep automatise l&#8217;ingestion de donn\\u00e9es depuis les syst\\u00e8mes ERP, fournisseurs d&#8217;\\u00e9nergie et donn\\u00e9es financi\\u00e8res via APIs et IA, supprimant les processus de collecte manuelle qui cr\\u00e9ent des erreurs et ralentissent les \\u00e9quipes durabilit\\u00e9. Les r\\u00e8gles de calcul sont appliqu\\u00e9es automatiquement et document\\u00e9es avec une tra\\u00e7abilit\\u00e9 compl\\u00e8te, \\u00e9liminant les erreurs de copier-coller des approches tableurs. Les tableaux de bord de suivi en temps r\\u00e9el fournissent des mises \\u00e0 jour en direct sur le suivi des \\u00e9missions plut\\u00f4t qu&#8217;un instantan\\u00e9 annuel.\\n\"}},{\"@type\":\"Question\",\"name\":\"Comment Sweep garantit-il la qualit\\u00e9 des donn\\u00e9es et la pr\\u00e9paration \\u00e0 l&#039;audit ?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"La plateforme de gestion carbone de Sweep int\\u00e8gre un contr\\u00f4le qualit\\u00e9 \\u00e0 chaque \\u00e9tape du pipeline de donn\\u00e9es. La validation automatis\\u00e9e des donn\\u00e9es signale les incoh\\u00e9rences avant qu&#8217;elles n&#8217;affectent les calculs. La tra\\u00e7abilit\\u00e9 compl\\u00e8te des donn\\u00e9es apporte une transparence sur la fa\\u00e7on dont chaque chiffre a \\u00e9t\\u00e9 d\\u00e9riv\\u00e9, et des registres d&#8217;empreinte clairs cr\\u00e9ent un enregistrement complet et tra\\u00e7able pour les auditeurs tiers. Les rapports g\\u00e9n\\u00e9r\\u00e9s peuvent \\u00eatre export\\u00e9s sous forme de documents audit\\u00e9s conformes aux normes europ\\u00e9ennes CSRD ou internationales.\\nLe Bilan Carbone\\u00ae, m\\u00e9thode de r\\u00e9f\\u00e9rence en France d\\u00e9velopp\\u00e9e par l&#8217;ADEME, est support\\u00e9 par Sweep pour r\\u00e9pondre aux obligations r\\u00e9glementaires sp\\u00e9cifiques au march\\u00e9 fran\\u00e7ais. Cette approche pr\\u00eate pour l&#8217;audit donne aux organisations la confiance pour reporter des donn\\u00e9es d&#8217;\\u00e9missions pr\\u00e9cises aux investisseurs, r\\u00e9gulateurs et autres parties prenantes, et de d\\u00e9fendre ces donn\\u00e9es sous le contr\\u00f4le de r\\u00e9f\\u00e9rentiels incluant la CSRD, la TCFD et le Protocole GHG.\\n\"}}]}]}"
+  ],
+  "meta_tags": {
+    "viewport": "width=device-width, initial-scale=1.0",
+    "description": "Construisez une stratégie de décarbonation solide avec Sweep. Définissez vos objectifs SBTi, priorisez vos actions et suivez vos progrès en temps réel.",
+    "generator": "Astro v6.3.7",
+    "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+    "og:locale": "fr-FR",
+    "og:type": "WebPage",
+    "og:title": "Pilotez votre stratégie de décarbonation - Sweep",
+    "og:description": "Construisez une stratégie de décarbonation solide avec Sweep. Définissez vos objectifs SBTi, priorisez vos actions et suivez vos progrès en temps réel.",
+    "og:url": "https://www.sweep.net/fr/strategie-de-decarbonation",
+    "og:site_name": "Sweep",
+    "og:updated_time": "2026-06-17T20:07:11+00:00",
+    "og:image": "/_astro/Header1_bHqVF.svg",
+    "og:image:secure_url": "/_astro/Header1_bHqVF.svg",
+    "og:image:width": "631",
+    "og:image:height": "501",
+    "twitter:card": "summary_large_image",
+    "twitter:title": "Pilotez votre stratégie de décarbonation - Sweep",
+    "twitter:description": "Construisez une stratégie de décarbonation solide avec Sweep. Définissez vos objectifs SBTi, priorisez vos actions et suivez vos progrès en temps réel.",
+    "twitter:image": "/_astro/Header1_bHqVF.svg",
+    "msapplication-TileColor": "#283fff",
+    "msapplication-config": "/favicons/browserconfig.xml",
+    "theme-color": "#283fff"
+  },
+  "link_tags": [
+    {
+      "rel": [
+        "canonical"
+      ],
+      "href": "https://www.sweep.net/fr/strategie-de-decarbonation"
+    },
+    {
+      "rel": [
+        "apple-touch-icon"
+      ],
+      "sizes": "180x180",
+      "href": "/favicons/apple-touch-icon.png"
+    },
+    {
+      "rel": [
+        "icon"
+      ],
+      "type": "image/png",
+      "sizes": "32x32",
+      "href": "/favicons/favicon-32x32.png"
+    },
+    {
+      "rel": [
+        "icon"
+      ],
+      "type": "image/png",
+      "sizes": "16x16",
+      "href": "/favicons/favicon-16x16.png"
+    },
+    {
+      "rel": [
+        "manifest"
+      ],
+      "href": "/favicons/site.webmanifest"
+    },
+    {
+      "rel": [
+        "mask-icon"
+      ],
+      "href": "/favicons/safari-pinned-tab.svg",
+      "color": "#283fff"
+    },
+    {
+      "rel": [
+        "shortcut",
+        "icon"
+      ],
+      "href": "/favicons/favicon.ico"
+    },
+    {
+      "rel": [
+        "preload"
+      ],
+      "href": "/_astro/fonts/b63d263538eb5c08.woff2",
+      "as": "font",
+      "type": "font/woff2",
+      "crossorigin": ""
+    },
+    {
+      "rel": [
+        "preload"
+      ],
+      "href": "/_astro/fonts/123fab1dee5d0200.woff2",
+      "as": "font",
+      "type": "font/woff2",
+      "crossorigin": ""
+    },
+    {
+      "rel": [
+        "preload"
+      ],
+      "href": "/_astro/fonts/5b3f8264d8aa7fec.woff2",
+      "as": "font",
+      "type": "font/woff2",
+      "crossorigin": ""
+    },
+    {
+      "rel": [
+        "sitemap"
+      ],
+      "href": "/sitemap-index.xml"
+    },
+    {
+      "rel": [
+        "stylesheet"
+      ],
+      "href": "/_astro/swiper-bundle.C3pJtvjs.css"
+    },
+    {
+      "rel": [
+        "stylesheet"
+      ],
+      "href": "/_astro/ModulesIncluder.B9brtxwE.css"
+    },
+    {
+      "rel": [
+        "stylesheet"
+      ],
+      "href": "/_astro/Layout.CA3wCqUP.css"
+    }
+  ]
+}
