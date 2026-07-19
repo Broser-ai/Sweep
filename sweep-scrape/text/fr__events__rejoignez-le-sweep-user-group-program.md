@@ -1,0 +1,185 @@
+# Rejoignez le "Sweep User Group Program" - Sweep
+
+
+**Description:** Sweep is the sustainability intelligence platform that turns sustainability data into measurable business performance.
+
+
+## Content
+
+
+EVENT
+Rejoignez le “Sweep User Group Program”
+La transition climatique est un voyage, et nous comprenons les défis que vous devez relever pour y parvenir.
+C'est pourquoi nous sommes ravis de présenter le "Sweep User Group Program". Un programme dédié aux clients pour se connecter, échanger et innover ensemble pour la lutte contre le réchauffement climatique.
+Lieu
+Paris
+Date
+16 nov. 2023
+Horaires
+13:00
+Langue
+French
+Dernière mise à jour
+04 novembre 2024
+La transition climatique est un voyage, et nous comprenons les défis que vous devez relever pour y parvenir.
+Nous sommes ravis de présenter le "Sweep User Group Program". Un programme dédié aux clients pour se connecter, échanger et innover ensemble dans la lutte contre le réchauffement climatique. Un programme conçu pour vous et avec vous, apportant de nombreux avantages :
+Partager des solutions pour des défis communs
+: Chaque client, qu'il soit nouveau ou expérimenté, est confronté à des défis. Notre programme est votre plateforme pour partager des solutions tangibles et apprendre de vos pairs.
+Support de client à client
+: Besoin de conseils ? Vous avez des idées et des bonnes pratiques à partager ? Cette initiative "client à client" vous permet de fournir et de recevoir du soutien de la communauté.
+Accès exclusif et retour d'expérience
+: Soyez les premiers à découvrir les nouvelles fonctionnalités et à contribuer à notre feuille de route produit. Votre contribution est précieuse pour façonner l'avenir de Sweep.
+Développez vos connaissances
+: Les opportunités de réseautage et le partage de connaissances vous aideront à maximiser votre investissement dans Sweep. Gagnez du temps et atteignez vos objectifs plus rapidement.
+Agenda
+👋 14h00 : Accueil et Networking
+🎤 14h30 : Présentation du groupe d'utilisateurs Sweep
+🎤 14h40 : Présentation client de sa stratégie de réduction des émissions
+🎤 15h00 : Discussions entre pairs sur les meilleures pratiques en matière de réduction des émissions
+🤝 15h30 – 16h00 : Pause et networking
+🎤 16h00 : Présentation de la roadmap produit court terme
+🎤 16h15 : Conclusions et networking
+Rejoignez-nous !
+Julien Denormandie
+Chief Impact Officer
+Julien Picaud
+Director of Product Marketing
+Renaud Bettin
+VP Climate Action & Sales Enablement
+Brahim Bouhadja
+VP Reselling
+Emplacement
+34 Rue Laffitte, 75009, Paris, France
+Plus d'événements
+ÉVÉNEMENT PASSÉ
+juin
+29
+Événements Sweep
+2026-06 – Sweep User Group à Paris
+Partenaire
+Rencontrez les Sweepers
+ÉVÉNEMENT PASSÉ
+avr.
+14
+Événements Sweep
+2026-04 – Sweep User Group à Paris
+Partenaire
+Rencontrez les Sweepers
+ÉVÉNEMENT PASSÉ
+mars
+30
+Événements Sweep
+Sweep Afterwork drinks – ChangeNow 2026
+Rencontrez les Sweepers
+
+
+## Links
+
+
+  [Lire l'étude](https://www.sweep.net/fr/reports/sweep-leader-de-letude-idc-marketscape-2026-des-plateformes-carbone)
+  [En savoir plus](https://www.linkedin.com/posts/republik-finance-cfo_les-laur%C3%A9ats-de-la-cat%C3%A9gorierse-impact-activity-7457128488077053953-zJY_/?rcm=ACoAAABlsAQB23Tol3TLqAzaGoUiAseioecBlt4)
+  [Lire l'article](/fr/reports/green-quadrant-verdantix-2026-sweep-parmi-les-leaders-du-marche)
+  [Comptabilité carbone](/fr/comptabilite-carbone)
+  [Émissions supply chain](/fr/emissions-supply-chain)
+  [Reporting ESG](/fr/reporting-esg)
+  [Stratégie de décarbonation](/fr/strategie-de-decarbonation)
+  [CSRD](/fr/csrd)
+  [GRI](/fr/gri)
+  [ISSB](/fr/issb)
+  [SFDR](/fr/sfdr)
+  [CDP](/fr/cdp)
+  [Plateforme](/fr/platform)
+  [Sweep AI](/fr/platform/ia-responsable)
+  [Clients](/fr/customers)
+  [Études](/fr/reports)
+  [Événements](/fr/events)
+  [Presse](/fr/newsroom)
+  [Blog](/fr/blog)
+  [Se préparer à la version finale de la CSRD – avec Julien Denormandie](/fr/blog/se-preparer-a-la-version-finale-de-la-csrd-avec-julien-denormandie)
+  [Pourquoi calculer une empreinte carbone produit ? Interview avec Lucie Varéon](/fr/blog/pourquoi-calculer-une-empreinte-carbone-produit-interview-avec-lucie-vareon)
+  [La COP30 reste un espace de dialogue nécessaire](/fr/blog/la-cop30-reste-un-espace-de-dialogue-necessaire)
+  [Guides](/fr/guides)
+  [CSRD : le guide du reporting pour les entreprises de la vague 2](/fr/guides/csrd-le-guide-du-reporting-pour-les-entreprises-de-la-vague-2)
+  [La méthode complète pour améliorer votre score CDP](/fr/guides/la-methode-pour-ameliorer-votre-score-cdp)
+  [Le guide d’achat des logiciels ESG](/fr/guides/le-guide-dachat-des-logiciels-esg)
+  [Outils](/fr/tools)
+  [Guide interactif CDP 2026](/fr/tools/guide-interactif-cdp-2026)
+  [Construire sa matrice de double matérialité](/fr/tools/csrd-materiality-builder)
+  [Construire sa roadmap CSRD](/fr/tools/csrd-roadmap-tool)
+  [Qui sommes-nous ?](/fr/about)
+  [Pourquoi choisir Sweep ?](/fr/pourquoi-nous)
+  [Nos partenaires](/fr/partners)
+  [Nous rejoindre](https://sweep.teamtailor.com/)
+  [English](/events/join-the-sweep-user-group-program/)
+  [French](/fr/events/rejoignez-le-sweep-user-group-program/)
+  [S'identifier](https://app.sweep.net/auth/sign-in)
+  [Demandez une démo](/fr/demo)
+  [ÉVÉNEMENT PASSÉjuin29Événements Sweep2026-06 – Sweep User Group à ParisPartenaireRencontrez les Sweepers](/fr/events/2026-06-sweep-user-group-a-paris/)
+  [ÉVÉNEMENT PASSÉavr.14Événements Sweep2026-04 – Sweep User Group à ParisPartenaireRencontrez les Sweepers](/fr/events/join-the-sweep-april14-paris-user-group/)
+  [ÉVÉNEMENT PASSÉmars30Événements SweepSweep Afterwork drinks – ChangeNow 2026Rencontrez les Sweepers](/fr/events/sweep-afterwork-drinks-at-changenow-2026/)
+  [Comptabilité carbone](/fr/comptabilite-carbone)
+  [Émissions supply chain](/fr/emissions-supply-chain)
+  [Reporting ESG](/fr/reporting-esg)
+  [Stratégie de décarbonation](/fr/strategie-de-decarbonation)
+  [Grands groupes](/fr/enterprise)
+  [ETI et PME](/fr/midmarket)
+  [Institutions financières](/fr/financial-institutions)
+  [Sweep Starter](https://www2.sweep.net/fr/starter-package)
+  [Notre plateforme](/fr/platform)
+  [AI](/fr/platform/ia-responsable)
+  [Ressources](/fr/blog)
+  [Événements](/fr/events)
+  [Salle de presse](/fr/newsroom)
+  [Plus rentable](/fr/plus-durable-plus-rentable)
+  [Plus conforme](/fr/plus-durable-plus-conforme)
+  [Plus compétitif](/fr/plus-durable-plus-competitif)
+  [Plus efficace](/fr/plus-durable-plus-efficace)
+  [Plus résilient](/fr/plus-durable-plus-resilient)
+  [CSRD](/fr/csrd)
+  [GRI](/fr/gri)
+  [ISSB](/fr/issb)
+  [SFDR](/fr/sfdr)
+  [CDP](/fr/sfdr)
+  [Bien de consommation](/fr/industry/consumer-goods)
+  [Commerce de détail](/fr/industry/retail)
+  [Médias et télécommunications](/fr/industry/media-telecoms)
+  [Énergie, services publics, pétrole et gaz](/fr/industry/energy-oil-and-gas)
+  [Épicerie](/fr/industry/grocery)
+  [Production](/fr/industry/manufacturing)
+  [Cabinet de conseil](/fr/industry/services)
+  [Santé](/fr/industry/healthcare)
+  [Qui sommes-nous ?](/fr/about)
+  [Clients](/fr/customers)
+  [Partenaires](/fr/partners)
+  [Presse](https://sweepnet.notion.site/Sweep-media-kit-2025-170f1c3c643c802c8d98d8a5833dc107)
+  [Contact](/fr/contact)
+  [Juridique](/fr/company/terms)
+  [Conditions d'utilisation](/fr/company/terms)
+  [Linkedin](https://www.linkedin.com/company/sweeptheplanet/about/)
+  [YouTube](https://www.youtube.com/@SweepThePlanet)
+  [Instagram](https://www.instagram.com/sweeptheplanet/)
+  [Système](https://status.sweep.net/)
+  [Sécurité](https://trust.sweep.net/)
+  [Greenly vs Sweep](/fr/greenly-vs-sweep)
+  [Tennaxia vs Sweep](/fr/tennaxia-vs-sweep)
+
+
+## Images
+
+
+  ![](/_astro/Events%20Events-%20%E2%80%93%20Paris-13_2vXRMS.webp)
+  ![Julien Denormandie's avatar](/_astro/Julien%20D-e1762185614114_Z1wvkhW.webp)
+  ![Sweep's logo](/_astro/Sweep_Logo_Horizontal_Black_Z1yLRoC.webp)
+  ![Julien Picaud](/_astro/JulienP-scaled_1gywr3.webp)
+  ![Sweep's logo](/_astro/Sweep_Logo_Horizontal_Black_Z1yLRoC.webp)
+  ![Renaud Bettin](/_astro/Renaud-e1762272277827_2sgxvs.webp)
+  ![Sweep's logo](/_astro/Sweep_Logo_Horizontal_Black_Z1yLRoC.webp)
+  ![Brahim Bouhadja](/_astro/brahim_bouhadja_Z2j75Cb.webp)
+  ![Sweep's logo](/_astro/Sweep_Logo_Horizontal_Black_Z1yLRoC.webp)
+  ![](/_astro/sweep__wlad_simitch_286-scaled_ZYBL35.webp)
+  ![](/_astro/sweep__wlad_simitch_286-scaled_ZYBL35.webp)
+  ![](/_astro/ChangeNOW2_2jldDa.webp)
+  ![](/_astro/Group_1rOUQL.svg)
+  ![](/_astro/Frame_ZrUz7Q.svg)
+  ![](/_astro/csr_WHITE1_Z1Jryw.svg)
+  ![](/_astro/LFT_2025white_ZXsvVq.webp)

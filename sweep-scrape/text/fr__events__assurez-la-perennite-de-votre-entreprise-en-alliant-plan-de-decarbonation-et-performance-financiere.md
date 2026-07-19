@@ -1,0 +1,182 @@
+# Assurez la pérennité de votre entreprise en alliant plan de décarbonation et performance financière - Sweep
+
+
+**Description:** Sweep is the sustainability intelligence platform that turns sustainability data into measurable business performance.
+
+
+## Content
+
+
+EVENT
+Assurez la pérennité de votre entreprise en alliant plan de décarbonation et performance financière
+Visionnez ce webinar de 30 minutes, et changez de perspective sur la transition : découvrez comment orienter vos investissements vers des leviers de performance durable.
+Lieu
+En ligne
+Date
+02 juil. 2025
+Langue
+Français
+Dernière mise à jour
+13 novembre 2025
+Entre reculs politiques, détricotage de la CSRD ou désengagement partiel des institutions financières, l’entreprise durable doit très probablement se réinventer. Une ère s’achève : celle où les enjeux ESG sont traités en silo, décorrélés de la stratégie business de l’entreprise.
+Cette remise en question est une opportunité à saisir.
+➡️ Celle de rendre les enjeux ESG stratégiques, concrets et mesurables, et d’ancrer le carbone au cœur de la pérennité et de la performance économique des entreprises — en particulier pour les
+responsables RSE
+, les
+Directions Financières
+, ou toute personne impliquée dans des décisions d’investissement bas-carbone.
+Pourquoi visionner ce replay ?
+Pour mieux comprendre les
+enjeux ESG et carbone
+, en particulier leur
+retour sur investissement
+, comme réponse stratégique à ce contexte et vous donner les clés pour passer de la conformité à une véritable stratégie, et de la simple mesure à des décisions concrètes, grâce à des outils opérationnels et des retours d’expérience inspirants.
+Animé par
+Renaud Bettin
+,
+VP Climate Action
+chez Sweep, et
+Yannick Bottino
+,
+Manager Sustainability & Climate Change
+chez Axionable.
+Margaux Plantive Triger
+, Head of ESG & Compliance, y partagera son retour d’expérience.
+En 30 minutes, changez de perspective sur la transition : Voyez comment arbitrer vos investissements en leviers de performance durables.
+Yannick Bottino
+Manager Sustainability & Climate Change
+Renaud Bettin
+VP Climate Action
+Sweep
+Margaux Plantive Triger
+Head of ESG & Compliance
+Accédez au replay dès maintenant !
+Plus d'événements
+ÉVÉNEMENT PASSÉ
+juin
+29
+Événements Sweep
+2026-06 – Sweep User Group à Paris
+Partenaire
+Rencontrez les Sweepers
+ÉVÉNEMENT PASSÉ
+avr.
+14
+Événements Sweep
+2026-04 – Sweep User Group à Paris
+Partenaire
+Rencontrez les Sweepers
+ÉVÉNEMENT PASSÉ
+mars
+30
+Événements Sweep
+Sweep Afterwork drinks – ChangeNow 2026
+Rencontrez les Sweepers
+
+
+## Links
+
+
+  [Lire l'étude](https://www.sweep.net/fr/reports/sweep-leader-de-letude-idc-marketscape-2026-des-plateformes-carbone)
+  [En savoir plus](https://www.linkedin.com/posts/republik-finance-cfo_les-laur%C3%A9ats-de-la-cat%C3%A9gorierse-impact-activity-7457128488077053953-zJY_/?rcm=ACoAAABlsAQB23Tol3TLqAzaGoUiAseioecBlt4)
+  [Lire l'article](/fr/reports/green-quadrant-verdantix-2026-sweep-parmi-les-leaders-du-marche)
+  [Comptabilité carbone](/fr/comptabilite-carbone)
+  [Émissions supply chain](/fr/emissions-supply-chain)
+  [Reporting ESG](/fr/reporting-esg)
+  [Stratégie de décarbonation](/fr/strategie-de-decarbonation)
+  [CSRD](/fr/csrd)
+  [GRI](/fr/gri)
+  [ISSB](/fr/issb)
+  [SFDR](/fr/sfdr)
+  [CDP](/fr/cdp)
+  [Plateforme](/fr/platform)
+  [Sweep AI](/fr/platform/ia-responsable)
+  [Clients](/fr/customers)
+  [Études](/fr/reports)
+  [Événements](/fr/events)
+  [Presse](/fr/newsroom)
+  [Blog](/fr/blog)
+  [Se préparer à la version finale de la CSRD – avec Julien Denormandie](/fr/blog/se-preparer-a-la-version-finale-de-la-csrd-avec-julien-denormandie)
+  [Pourquoi calculer une empreinte carbone produit ? Interview avec Lucie Varéon](/fr/blog/pourquoi-calculer-une-empreinte-carbone-produit-interview-avec-lucie-vareon)
+  [La COP30 reste un espace de dialogue nécessaire](/fr/blog/la-cop30-reste-un-espace-de-dialogue-necessaire)
+  [Guides](/fr/guides)
+  [CSRD : le guide du reporting pour les entreprises de la vague 2](/fr/guides/csrd-le-guide-du-reporting-pour-les-entreprises-de-la-vague-2)
+  [La méthode complète pour améliorer votre score CDP](/fr/guides/la-methode-pour-ameliorer-votre-score-cdp)
+  [Le guide d’achat des logiciels ESG](/fr/guides/le-guide-dachat-des-logiciels-esg)
+  [Outils](/fr/tools)
+  [Guide interactif CDP 2026](/fr/tools/guide-interactif-cdp-2026)
+  [Construire sa matrice de double matérialité](/fr/tools/csrd-materiality-builder)
+  [Construire sa roadmap CSRD](/fr/tools/csrd-roadmap-tool)
+  [Qui sommes-nous ?](/fr/about)
+  [Pourquoi choisir Sweep ?](/fr/pourquoi-nous)
+  [Nos partenaires](/fr/partners)
+  [Nous rejoindre](https://sweep.teamtailor.com/)
+  [S'identifier](https://app.sweep.net/auth/sign-in)
+  [Demandez une démo](/fr/demo)
+  [ÉVÉNEMENT PASSÉjuin29Événements Sweep2026-06 – Sweep User Group à ParisPartenaireRencontrez les Sweepers](/fr/events/2026-06-sweep-user-group-a-paris/)
+  [ÉVÉNEMENT PASSÉavr.14Événements Sweep2026-04 – Sweep User Group à ParisPartenaireRencontrez les Sweepers](/fr/events/join-the-sweep-april14-paris-user-group/)
+  [ÉVÉNEMENT PASSÉmars30Événements SweepSweep Afterwork drinks – ChangeNow 2026Rencontrez les Sweepers](/fr/events/sweep-afterwork-drinks-at-changenow-2026/)
+  [Comptabilité carbone](/fr/comptabilite-carbone)
+  [Émissions supply chain](/fr/emissions-supply-chain)
+  [Reporting ESG](/fr/reporting-esg)
+  [Stratégie de décarbonation](/fr/strategie-de-decarbonation)
+  [Grands groupes](/fr/enterprise)
+  [ETI et PME](/fr/midmarket)
+  [Institutions financières](/fr/financial-institutions)
+  [Sweep Starter](https://www2.sweep.net/fr/starter-package)
+  [Notre plateforme](/fr/platform)
+  [AI](/fr/platform/ia-responsable)
+  [Ressources](/fr/blog)
+  [Événements](/fr/events)
+  [Salle de presse](/fr/newsroom)
+  [Plus rentable](/fr/plus-durable-plus-rentable)
+  [Plus conforme](/fr/plus-durable-plus-conforme)
+  [Plus compétitif](/fr/plus-durable-plus-competitif)
+  [Plus efficace](/fr/plus-durable-plus-efficace)
+  [Plus résilient](/fr/plus-durable-plus-resilient)
+  [CSRD](/fr/csrd)
+  [GRI](/fr/gri)
+  [ISSB](/fr/issb)
+  [SFDR](/fr/sfdr)
+  [CDP](/fr/sfdr)
+  [Bien de consommation](/fr/industry/consumer-goods)
+  [Commerce de détail](/fr/industry/retail)
+  [Médias et télécommunications](/fr/industry/media-telecoms)
+  [Énergie, services publics, pétrole et gaz](/fr/industry/energy-oil-and-gas)
+  [Épicerie](/fr/industry/grocery)
+  [Production](/fr/industry/manufacturing)
+  [Cabinet de conseil](/fr/industry/services)
+  [Santé](/fr/industry/healthcare)
+  [Qui sommes-nous ?](/fr/about)
+  [Clients](/fr/customers)
+  [Partenaires](/fr/partners)
+  [Presse](https://sweepnet.notion.site/Sweep-media-kit-2025-170f1c3c643c802c8d98d8a5833dc107)
+  [Contact](/fr/contact)
+  [Juridique](/fr/company/terms)
+  [Conditions d'utilisation](/fr/company/terms)
+  [Linkedin](https://www.linkedin.com/company/sweeptheplanet/about/)
+  [YouTube](https://www.youtube.com/@SweepThePlanet)
+  [Instagram](https://www.instagram.com/sweeptheplanet/)
+  [Système](https://status.sweep.net/)
+  [Sécurité](https://trust.sweep.net/)
+  [Greenly vs Sweep](/fr/greenly-vs-sweep)
+  [Tennaxia vs Sweep](/fr/tennaxia-vs-sweep)
+
+
+## Images
+
+
+  ![](/_astro/sweep_axionable_webinar_lpheader1_Z28ntX8.webp)
+  ![](/_astro/YannickBottino-scaled_w86RE.webp)
+  ![](/_astro/partnerlogoAxionable_2cs4Gs.svg)
+  ![Renaud Bettin](/_astro/Renaud_1Fu5Hm.webp)
+  ![](/_astro/Sweep_Logo_Horizontal_Black-1_1Iuo1H.webp)
+  ![](/_astro/MargauxPLANTIVETRIGER_wnEAx.webp)
+  ![](/_astro/etixeverywhere_sCCza.webp)
+  ![](/_astro/sweep__wlad_simitch_286-scaled_ZYBL35.webp)
+  ![](/_astro/sweep__wlad_simitch_286-scaled_ZYBL35.webp)
+  ![](/_astro/ChangeNOW2_2jldDa.webp)
+  ![](/_astro/Group_1rOUQL.svg)
+  ![](/_astro/Frame_ZrUz7Q.svg)
+  ![](/_astro/csr_WHITE1_Z1Jryw.svg)
+  ![](/_astro/LFT_2025white_ZXsvVq.webp)

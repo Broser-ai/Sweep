@@ -1,0 +1,199 @@
+# Can Paris 2024 cut the Olympic carbon footprint by half? - Sweep
+
+
+**Description:** Can Paris 2024 cut the Olympic carbon footprint by half?
+
+
+## Content
+
+
+Home
+Insights
+Blog
+Can Paris 2024 cut the Olympic carbon footprint by half?
+Category
+Blog
+Last updated
+June 02, 2025
+ESG management
+This summer, up to 15,000 athletes will descend on Paris in search of sporting glory, but the organizers of the 2024 Games have added a fresh ambition to the Olympic motto of “Faster, Higher, Stronger” – they also want to be the greenest multi-sport event ever, as part of broader efforts to reduce emissions and combat climate change. As global sporting bodies face increased scrutiny over their impact on the environment, the Paris organizers have vowed that the event, which begins on July 26, will be “historic for the climate.”
+Halving the emissions of previous Games
+The Olympics Legacy and Sustainability plan outlines ambitious goals to cut carbon emissions, minimize waste, and use renewable energy sources. Crucially, it has set a goal to
+reduce carbon emissions by more than half compared to the amount produced in previous modern Olympic games, from an average of 3.6 million tons to 1.5 million tons.
+It all starts with data
+The International Olympic Committee (IoC) aims to halve the carbon footprint of the Games as compared to the average of the London 2012 and Rio 2016 Olympics, by accounting for all direct and indirect emissions (scopes 1, 2, and 3), including spectator travel.
+A carbon footprint is the total amount of greenhouse gases (including carbon dioxide and methane) produced by all activities associated with the Olympic Games, including construction, energy consumption, transportation, and waste management.
+Historically, the average carbon footprint of the Games was 3.5 million tonnes of CO2 equivalent (CO2e), excluding the Tokyo 2020 Games, which was held without spectators due to the Covid-19 pandemic. To achieve its goal, Paris 2024 has enlisted climate experts and developed a comprehensive tool using nearly 10,000 data points, projecting that the final total carbon footprint of the Games at 1.58 million tonnes CO2e, which is even lower than the target of 1.75 million tonnes CO2e.
+An initial carbon assessment for the 2018-2023 period, made in line with the GHG Protocol, reported that 476,000 tonnes of CO2e had been generated, mainly from construction and renovation projects. These emissions, combined with updated estimates for current and future emissions, suggest that Paris 2024 is indeed on track to meet its ambitious carbon reduction target. Detailed results, including actual data from the event, will be published in autumn 2024.
+Carbon management measures
+The Paris Organising Committee’s goals are ambitious, and a number of measures have been put in place as part of a broader carbon management strategy to track and control carbon emissions.
+Using existing and temporary structures
+The 2024 Games’ organizers plan to reduce emissions by using 95% existing buildings or temporary structures. They have only built new facilities where they are able to be used after the Games, and have favored low-carbon building materials such as timber, and recycled plastic for seating.
+Renewable energy
+Venues have been connected to the public electricity grid, to eliminate the need for diesel generators and maximise renewable energy sources:
+Wind and solar power:
+The Paris 2024 Games will primarily use wind and solar power, drastically reducing the carbon footprint associated with energy consumption.
+Energy-efficient technologies:
+Energy-efficient technologies set to be deployed include. The lighting at the Stade de France, which will host major events including athletics, is currently powered by oil-fired generators. During the Olympics, it will be powered by biofuel. This measure alone is estimated to save as much as 13,000 tonnes of CO2 emissions.
+Recycle and Reuse
+Pollution is another key focus. The Paris Organising Committee says it is applying the principles of a circular economy wherever possible. The 42,000 chairs, 10,000 office tables, 6,000 shelves, and 800 workstations used for the Games will be recovered after the event. Three-quarters will be resold second-hand or donated, while others will be recycled or reused to manufacture other products.
+Sustainable food and waste management
+During the Olympics and Paralympics, more than 13 million meals will be served:
+Local sourcing:
+60% of the food will be vegetarian, with twice as much plant-based food as previously, and 80% will includee produce sourced in France.
+Reducing waste:
+Single-use plastics will be banned, and there will be a deposit return scheme for food and drink containers.
+The contentious issue of carbon offsetting
+There is also the thorny question of carbon offsetting. In May, Paris 2024 backtracked on its promise to be “the first Games with a positive contribution to the climate” – meaning to eliminate more greenhouse gas emissions than those generated by the event. However, organizers are still going ahead with carbon offsetting.
+Carbon offsetting involves compensating for carbon emissions by funding projects that reduce or remove an equivalent amount of CO2 from the atmosphere, such as reforestation or renewable energy initiatives. It is often used by individuals and organizations to balance out their personal carbon footprint and achieve net-zero emissions goals. However, the practice is often criticized by environmental associations, who see it as a “greenwashing” technique, as the impact of such financing is difficult to measure.
+Paris 2024 has invested in what it describes as “high-impact climate action projects”, as part of a “climate solidarity” programme. It has purchased 1.3 million voluntary carbon credits from projects which it says have a focus on social and biodiversity benefits, such as expanding renewable electricity capacity in Senegal and protecting threatened forests in Kenya and Guatemala.
+The likelihood of success
+Several climate groups have praised the Paris organizers for trying to hold a greener Games, but some environmentalists are skeptical that the ambitious target of halving emissions can be met. A report from
+Carbon Market Watch
+and the not-for-profit research group “éclaircies”, released three months ahead of the opening ceremony, said the organizers’ sustainability plan only covered around 30% of predicted emissions.
+While the “Going For Green” report described the construction and food sustainability strategies as having made “decent efforts”, it concluded that more should be done to address the impact of international travel.
+The Games’ organizers say they recommended train travel in their communications with ticket holders, and the British, Dutch, and Belgian delegations have all committed to travel to Paris by train and other forms of public transport. Official partner Air France has pledged to match contributions to its Sustainable Aviation Fuel scheme made by customers flying to France during the Games.
+Towards a sustainable future
+The Paris 2024 Olympics aim to set a new standard for sustainability in sports, with ambitious measures to cut emissions and make full use of new renewable energy. However, significant challenges remain, particularly in accounting for the full breadth of Scope 3 emissions. The complexity of tracking ESG data and impact across the entire value chain requires meticulous planning, extensive data collection, and robust collaboration among all stakeholders involved. Nevertheless, the Games’ organizers have sent a clear message for the next Olympic Games, and all large sporting events about the importance of driving decarbonization to combat global warming.
+Sweep can help
+Sweep makes sustainability work for your business. Not the other way round. We connect all your sustainability data and turn it into business intelligence to help you unlock performance – from compliance and risk reduction, all the way to cost-savings, and market differentiation.
+With Sweep, you can:
+Lower costs through real-time tracking and insights
+Strengthen supply chains with end-to-end visibility and engagement
+Deliver audit-ready sustainability and climate reporting with confidence
+Make sustainability intelligence available to everyone to optimize the business
+See how we can help you on your sustainability journey
+Book a demo
+Contents
+Halving the emissions of previous Games
+It all starts with data
+Carbon management measures
+The contentious issue of carbon offsetting
+The likelihood of success
+Towards a sustainable future
+More stories
+Blog
+The most energy-hungry element of your sustainability stack
+Blog
+Sweep x Climate Contribution Framework at LCAW 2026: The missing layer
+Reporting frameworks
+Blog
+Sweep at London Climate Action Week 2026
+
+
+## Links
+
+
+  [Get the report](https://www.sweep.net/reports/2026-idc-marketscape)
+  [Get the report](https://www.sweep.net/reports/2026-verdantix-green-quadrant-sweep-turns-esg-data-into-strategic-advantage)
+  [Read the report](/the-state-of-business-sustainability-2026)
+  [Carbon management](/carbon-management)
+  [Supplier Emissions](/supply-chain-emissions)
+  [Sustainability Reporting](/sustainability-reporting)
+  [Decarbonization Strategy](/decarbonization-strategy)
+  [California SB 253](/sb-253)
+  [CSRD](/csrd)
+  [ISSB](/issb)
+  [UK SRS](/landing/uk-srs)
+  [CDP](/cdp)
+  [Platform](/platform)
+  [AI](/platform/ai)
+  [Customers](/customers)
+  [Reports](/reports)
+  [Events](/events)
+  [Newsroom](/newsroom)
+  [Blog](/blog)
+  [Ultimate guide to ESG software in 2026](/guides/2026-decarbonization-strategy-guide-3)
+  [SB 253 and SB 261 – Is your company on the list?](/blog/sb-253-and-sb-261-is-your-company-on-the-list)
+  [ESG regulations: how to get ready for 2026](/guides/2026-decarbonization-strategy-guide-3)
+  [Guides](/guides)
+  [Guide to improving your CDP score](/guides/how-to-improve-your-cdp-score)
+  [California SB 253: From Data to Disclosure](/guides/california-sb-253-guide)
+  [What the first CSRD reporters learned — and how you can apply it](/guides/what-the-first-csrd-reporters-learned-and-how-you-can-apply-it)
+  [Tools](/tools)
+  [SB 253 Navigator](https://www.sweep.net/tools/sb-253-navigator/)
+  [UK Sustainability Laws Compass](https://www.sweep.net/tools/uk-sustainability-laws-compass/)
+  [The CSRD Materiality Builder](https://www.sweep.net/tools/csrd-materiality-builder/)
+  [CSRD Roadmap tool](/tools/csrd-roadmap-tool)
+  [About us](/about)
+  [Partners](/partners)
+  [Why us?](/why-us)
+  [Careers](https://sweep.teamtailor.com/)
+  [Login](https://app.sweep.net/auth/sign-in)
+  [Book a demo](/demo)
+  [Home](/)
+  [Blog](/blog)
+  [Carbon Market Watch](https://carbonmarketwatch.org/2024/04/15/going-for-green-is-the-paris-olympics-winning-the-race-against-the-climate-clock/)
+  [Book a demo](https://www.sweep.net/demo?utm_medium=content)
+  [Halving the emissions of previous Games](#halving-the-emissions-of-previous-games)
+  [It all starts with data](#it-all-starts-with-data)
+  [Carbon management measures](#carbon-management-measures)
+  [The contentious issue of carbon offsetting](#the-contentious-issue-of-carbon-offsetting)
+  [The likelihood of success](#the-likelihood-of-success)
+  [Towards a sustainable future](#towards-a-sustainable-future)
+  [BlogThe most energy-hungry element of your sustainability stack](/blog/the-most-energy-hungry-element-of-your-sustainability-stack/)
+  [BlogSweep x Climate Contribution Framework at LCAW 2026: The missing layerReporting frameworks](/blog/sweep-x-climate-contribution-framework-at-lcaw-2026-net-zero-needs-a-new-scorecard/)
+  [BlogSweep at London Climate Action Week 2026](/blog/sweep-at-london-climate-action-week-2026/)
+  [Carbon management](/carbon-management)
+  [Supplier Emissions](/supply-chain-emissions)
+  [Sustainability Reporting](/sustainability-reporting)
+  [Decarbonization Strategy](/decarbonization-strategy)
+  [Enterprise](/enterprise)
+  [Midmarket](/midmarket)
+  [Financial institutions](/financial-institutions)
+  [Sweep Starter](https://www2.sweep.net/starter-package)
+  [Platform](/platform)
+  [AI](https://www.sweep.net/platform/ai)
+  [Blog](/blog)
+  [Events](/events)
+  [Newsroom](/newsroom)
+  [for Compliance](/sustainability-works-for-compliance)
+  [for Market Advantage](/sustainability-works-for-market-advantage)
+  [for Growth](/sustainability-works-for-growth)
+  [for Cost Savings](/sustainability-works-for-cost-savings)
+  [for Risk Reduction](/sustainability-works-for-risk-reduction)
+  [California SB 253](/sb-253 )
+  [CSRD](/csrd )
+  [ISSB](/issb )
+  [UK SRS](/uk-srs)
+  [CDP](/cdp)
+  [Consumer goods](/industry/consumer-goods)
+  [Retail](/industry/retail)
+  [Media & Telecoms](/industry/media-telecoms)
+  [Energy, utilities, oil & gas](/industry/energy-oil-and-gas)
+  [Grocery](/industry/grocery)
+  [Manufacturing](/industry/manufacturing)
+  [Professional services](/industry/services)
+  [Healthcare](/industry/healthcare)
+  [About us](/about)
+  [Customers](/customers)
+  [Partners](/partners)
+  [Press](https://sweepnet.notion.site/Sweep-media-kit-2025-170f1c3c643c802c8d98d8a5833dc107)
+  [Contact](/contact)
+  [Careers](https://sweep.teamtailor.com/)
+  [Legal](/company/terms)
+  [Linkedin](https://www.linkedin.com/company/sweeptheplanet/about/)
+  [YouTube](https://www.youtube.com/@SweepThePlanet)
+  [Instagram](https://www.instagram.com/sweeptheplanet/)
+  [System](https://status.sweep.net/)
+  [Security](https://trust.sweep.net/)
+  [Sweep vs Workiva](/workiva-vs-sweep)
+  [Sweep vs Watershed](/watershed-vs-sweep)
+  [Sweep vs Greenly](/greenly-vs-sweep)
+  [Sweep vs Persefoni](/persefoni-vs-sweep)
+  [Sweep vs Salesforce Net Zero Cloud](/netzerocloud-vs-sweep)
+  [Sweep vs Normative](/normative-vs-sweep)
+
+
+## Images
+
+
+  ![Olympics](/_astro/InsightBlogOlympics_10Es2Q.webp)
+  ![](/_astro/Demo_bridge_ZW79lx.webp)
+  ![Yannick AI header](/_astro/YannickAI_blog_header01_rnIh9.webp)
+  ![LCAW CCF](/_astro/Sweep_25_June_0451-scaled_Df2Tv.webp)
+  ![LCAW header](/_astro/LCAW2026_blog_header01_2uGIKF.webp)
+  ![](/_astro/Group_1rOUQL.svg)
+  ![](/_astro/Frame_ZrUz7Q.svg)
+  ![](/_astro/csr_WHITE1_Z1Jryw.svg)
+  ![](/_astro/LFT_2025white_ZXsvVq.webp)

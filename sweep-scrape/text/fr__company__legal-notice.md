@@ -1,0 +1,158 @@
+# Mentions Légales - Sweep
+
+
+**Description:** Sweep is the sustainability intelligence platform that turns sustainability data into measurable business performance.
+
+
+## Content
+
+
+Mentions légales
+Les renseignements fournis ici sont destinés aux lecteurs, abonnés et fournisseurs de Sweep ayant des questions sur nos conditions générales, politiques, propriété intellectuelle et conformité.
+Conditions d'utilisation
+Politique de Traitement
+des Données Personnelles
+Regulatory Compliance
+Événements
+Responsabilité Sociale
+et Environnementale
+Mentions Légales
+Ces Mentions Légales s’appliquent à tout le contenu disponible sous le nom de domaine
+www.sweep.net
+, y compris tous les sous-domaines et sous-pages du domaine. Nos pages web fournissent également des liens vers d’autres sites qui ne nous appartiennent pas. Lorsque vous accédez à de tels sites, vous acceptez les risques qu’ils peuvent comporter.
+Identification de l’éditeur:
+Sweep SAS
+Siège social:
+FLEXO – 80 Rue Isabelle Eberhardt 34000 Montpellier, France
+Courriel:
+legal@sweep.net
+Numéro au Registre du Commerce et des Sociétés de Montpellier:
+883 967 879
+Numéro de TVA intracommunautaire
+: FR85883967879
+Hébergeur du site:
+Amazon Web Services EMEA SARL
+5 rue Plaetis L-2338 Luxembourg
+Fax : 352 2789 0057
+https://aws.amazon.com
+Date de création:
+août 2020
+Directeur de la publication:
+Ewa Jozefkowicz
+Représentants légaux:
+Rachel Delacour
+,
+Yannick Chaze
+,
+Raphael Gueller
+Protection des données :
+Conformément au RGPD, vous avez le droit d’accéder, de modifier, de rectifier et de supprimer vos données personnelles. Pour demander une modification, une rectification ou une suppression, veuillez contacter Sweep :
+Par courrier : FLEXO – 80 Rue Isabelle Eberhardt 34000 Montpellier, France
+Par courriel : privacy@sweep.net
+
+
+## Links
+
+
+  [Lire l'étude](https://www.sweep.net/fr/reports/sweep-leader-de-letude-idc-marketscape-2026-des-plateformes-carbone)
+  [En savoir plus](https://www.linkedin.com/posts/republik-finance-cfo_les-laur%C3%A9ats-de-la-cat%C3%A9gorierse-impact-activity-7457128488077053953-zJY_/?rcm=ACoAAABlsAQB23Tol3TLqAzaGoUiAseioecBlt4)
+  [Lire l'article](/fr/reports/green-quadrant-verdantix-2026-sweep-parmi-les-leaders-du-marche)
+  [Comptabilité carbone](/fr/comptabilite-carbone)
+  [Émissions supply chain](/fr/emissions-supply-chain)
+  [Reporting ESG](/fr/reporting-esg)
+  [Stratégie de décarbonation](/fr/strategie-de-decarbonation)
+  [CSRD](/fr/csrd)
+  [GRI](/fr/gri)
+  [ISSB](/fr/issb)
+  [SFDR](/fr/sfdr)
+  [CDP](/fr/cdp)
+  [Plateforme](/fr/platform)
+  [Sweep AI](/fr/platform/ia-responsable)
+  [Clients](/fr/customers)
+  [Études](/fr/reports)
+  [Événements](/fr/events)
+  [Presse](/fr/newsroom)
+  [Blog](/fr/blog)
+  [Se préparer à la version finale de la CSRD – avec Julien Denormandie](/fr/blog/se-preparer-a-la-version-finale-de-la-csrd-avec-julien-denormandie)
+  [Pourquoi calculer une empreinte carbone produit ? Interview avec Lucie Varéon](/fr/blog/pourquoi-calculer-une-empreinte-carbone-produit-interview-avec-lucie-vareon)
+  [La COP30 reste un espace de dialogue nécessaire](/fr/blog/la-cop30-reste-un-espace-de-dialogue-necessaire)
+  [Guides](/fr/guides)
+  [CSRD : le guide du reporting pour les entreprises de la vague 2](/fr/guides/csrd-le-guide-du-reporting-pour-les-entreprises-de-la-vague-2)
+  [La méthode complète pour améliorer votre score CDP](/fr/guides/la-methode-pour-ameliorer-votre-score-cdp)
+  [Le guide d’achat des logiciels ESG](/fr/guides/le-guide-dachat-des-logiciels-esg)
+  [Outils](/fr/tools)
+  [Guide interactif CDP 2026](/fr/tools/guide-interactif-cdp-2026)
+  [Construire sa matrice de double matérialité](/fr/tools/csrd-materiality-builder)
+  [Construire sa roadmap CSRD](/fr/tools/csrd-roadmap-tool)
+  [Qui sommes-nous ?](/fr/about)
+  [Pourquoi choisir Sweep ?](/fr/pourquoi-nous)
+  [Nos partenaires](/fr/partners)
+  [Nous rejoindre](https://sweep.teamtailor.com/)
+  [English](/company/legal-notice/)
+  [French](/fr/company/legal-notice/)
+  [S'identifier](https://app.sweep.net/auth/sign-in)
+  [Demandez une démo](/fr/demo)
+  [Conditions d'utilisation](/fr/company/terms)
+  [Politique de Traitementdes Données Personnelles](/fr/company/privacy)
+  [Regulatory Compliance](/fr/company/regulatory-compliance)
+  [Événements](/fr/company/events)
+  [Responsabilité Socialeet Environnementale](/fr/company/corporate-social-responsibility)
+  [Mentions Légales](#)
+  [www.sweep.net](https://www.sweep.net/)
+  [https://aws.amazon.com](https://aws.amazon.com/)
+  [Ewa Jozefkowicz](https://www.linkedin.com/in/ewa-jozefkowicz/)
+  [Comptabilité carbone](/fr/comptabilite-carbone)
+  [Émissions supply chain](/fr/emissions-supply-chain)
+  [Reporting ESG](/fr/reporting-esg)
+  [Stratégie de décarbonation](/fr/strategie-de-decarbonation)
+  [Grands groupes](/fr/enterprise)
+  [ETI et PME](/fr/midmarket)
+  [Institutions financières](/fr/financial-institutions)
+  [Sweep Starter](https://www2.sweep.net/fr/starter-package)
+  [Notre plateforme](/fr/platform)
+  [AI](/fr/platform/ia-responsable)
+  [Ressources](/fr/blog)
+  [Événements](/fr/events)
+  [Salle de presse](/fr/newsroom)
+  [Plus rentable](/fr/plus-durable-plus-rentable)
+  [Plus conforme](/fr/plus-durable-plus-conforme)
+  [Plus compétitif](/fr/plus-durable-plus-competitif)
+  [Plus efficace](/fr/plus-durable-plus-efficace)
+  [Plus résilient](/fr/plus-durable-plus-resilient)
+  [CSRD](/fr/csrd)
+  [GRI](/fr/gri)
+  [ISSB](/fr/issb)
+  [SFDR](/fr/sfdr)
+  [CDP](/fr/sfdr)
+  [Bien de consommation](/fr/industry/consumer-goods)
+  [Commerce de détail](/fr/industry/retail)
+  [Médias et télécommunications](/fr/industry/media-telecoms)
+  [Énergie, services publics, pétrole et gaz](/fr/industry/energy-oil-and-gas)
+  [Épicerie](/fr/industry/grocery)
+  [Production](/fr/industry/manufacturing)
+  [Cabinet de conseil](/fr/industry/services)
+  [Santé](/fr/industry/healthcare)
+  [Qui sommes-nous ?](/fr/about)
+  [Clients](/fr/customers)
+  [Partenaires](/fr/partners)
+  [Presse](https://sweepnet.notion.site/Sweep-media-kit-2025-170f1c3c643c802c8d98d8a5833dc107)
+  [Contact](/fr/contact)
+  [Juridique](/fr/company/terms)
+  [Conditions d'utilisation](/fr/company/terms)
+  [Linkedin](https://www.linkedin.com/company/sweeptheplanet/about/)
+  [YouTube](https://www.youtube.com/@SweepThePlanet)
+  [Instagram](https://www.instagram.com/sweeptheplanet/)
+  [Système](https://status.sweep.net/)
+  [Sécurité](https://trust.sweep.net/)
+  [Greenly vs Sweep](/fr/greenly-vs-sweep)
+  [Tennaxia vs Sweep](/fr/tennaxia-vs-sweep)
+
+
+## Images
+
+
+  ![](/_astro/legaltop_1W9sgv.webp)
+  ![](/_astro/Group_1rOUQL.svg)
+  ![](/_astro/Frame_ZrUz7Q.svg)
+  ![](/_astro/csr_WHITE1_Z1Jryw.svg)
+  ![](/_astro/LFT_2025white_ZXsvVq.webp)

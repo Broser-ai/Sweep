@@ -1,0 +1,167 @@
+# Sweep in the news - Sweep
+
+
+**Description:** Sweep is the sustainability intelligence platform that turns sustainability data into measurable business performance.
+
+
+## Content
+
+
+Home
+Sweep in the news
+Sweep in the news
+July 2025 -
+Tech Talks (podcast)
+Sustainability is good business – but show me the numbers
+June 2025 -
+Women's Wear Daily
+Inside VivaTech: LVMH Spotlights AI and Sustainability at Innovation Awards
+June 2025 -
+Energy Digital
+Great British Energy: Building a Publicly-Owned Utility
+May 2025 -
+Sustainability Magazine
+Will Great British Energy Boost Sustainable UK Projects?
+May 2025 -
+Green Retail World
+‘Significant milestone’: New Look onboards all core suppliers to traceability platform
+April 2025 -
+CityWire
+Mirova chooses new partners for corporate sustainability initiative
+April 2025 -
+Green Retail World
+‘Data-driven approach’: Wickes uncovering more sustainability data with Sweep
+April 2025 -
+Retail Times
+Wickes partners with Sweep to advance its Responsible Business Strategy data management
+March 2025 -
+TIME
+World’s Top GreenTech companies of 2025
+1
+...
+3
+4
+5
+6
+7
+...
+10
+
+
+## Links
+
+
+  [Get the report](https://www.sweep.net/reports/2026-idc-marketscape)
+  [Get the report](https://www.sweep.net/reports/2026-verdantix-green-quadrant-sweep-turns-esg-data-into-strategic-advantage)
+  [Read the report](/the-state-of-business-sustainability-2026)
+  [Carbon management](/carbon-management)
+  [Supplier Emissions](/supply-chain-emissions)
+  [Sustainability Reporting](/sustainability-reporting)
+  [Decarbonization Strategy](/decarbonization-strategy)
+  [California SB 253](/sb-253)
+  [CSRD](/csrd)
+  [ISSB](/issb)
+  [UK SRS](/landing/uk-srs)
+  [CDP](/cdp)
+  [Platform](/platform)
+  [AI](/platform/ai)
+  [Customers](/customers)
+  [Reports](/reports)
+  [Events](/events)
+  [Newsroom](/newsroom)
+  [Blog](/blog)
+  [Ultimate guide to ESG software in 2026](/guides/2026-decarbonization-strategy-guide-3)
+  [SB 253 and SB 261 – Is your company on the list?](/blog/sb-253-and-sb-261-is-your-company-on-the-list)
+  [ESG regulations: how to get ready for 2026](/guides/2026-decarbonization-strategy-guide-3)
+  [Guides](/guides)
+  [Guide to improving your CDP score](/guides/how-to-improve-your-cdp-score)
+  [California SB 253: From Data to Disclosure](/guides/california-sb-253-guide)
+  [What the first CSRD reporters learned — and how you can apply it](/guides/what-the-first-csrd-reporters-learned-and-how-you-can-apply-it)
+  [Tools](/tools)
+  [SB 253 Navigator](https://www.sweep.net/tools/sb-253-navigator/)
+  [UK Sustainability Laws Compass](https://www.sweep.net/tools/uk-sustainability-laws-compass/)
+  [The CSRD Materiality Builder](https://www.sweep.net/tools/csrd-materiality-builder/)
+  [CSRD Roadmap tool](/tools/csrd-roadmap-tool)
+  [About us](/about)
+  [Partners](/partners)
+  [Why us?](/why-us)
+  [Careers](https://sweep.teamtailor.com/)
+  [English](/in-the-press/)
+  [French](/fr/in-the-press/)
+  [Login](https://app.sweep.net/auth/sign-in)
+  [Book a demo](/demo)
+  [Home](/)
+  [July 2025 -Tech Talks (podcast)Sustainability is good business – but show me the numbers](https://podcasts.apple.com/gb/podcast/sustainability-is-good-business-but-show-me-the-numbers/id1091537240?i=1000715720503)
+  [June 2025 -Women's Wear DailyInside VivaTech: LVMH Spotlights AI and Sustainability at Innovation Awards](https://wwd.com/business-news/technology/lvmh-vivatech-ai-sustainability-innovation-awards-1237915221/)
+  [June 2025 -Energy DigitalGreat British Energy: Building a Publicly-Owned Utility](https://energydigital.com/articles/will-great-british-energy-boost-sustainable-uk-projects)
+  [May 2025 -Sustainability MagazineWill Great British Energy Boost Sustainable UK Projects?](https://sustainabilitymag.com/articles/will-great-british-energy-boost-sustainable-uk-projects)
+  [May 2025 -Green Retail World‘Significant milestone’: New Look onboards all core suppliers to traceability platform](https://greenretail.world/2025/05/06/significant-milestone-new-look-onboards-all-core-suppliers-to-traceability-platform/)
+  [April 2025 -CityWireMirova chooses new partners for corporate sustainability initiative](https://citywire.com/selector/news/mirova-chooses-new-partners-for-corporate-sustainability-initiative/a2464560)
+  [April 2025 -Green Retail World‘Data-driven approach’: Wickes uncovering more sustainability data with Sweep](https://greenretail.world/2025/04/09/data-driven-approach-wickes-uncovering-more-sustainability-data-with-sweep/)
+  [April 2025 -Retail TimesWickes partners with Sweep to advance its Responsible Business Strategy data management](https://retailtimes.co.uk/wickes-partners-with-sweep-to-advance-its-responsible-business-strategy-data-management/)
+  [March 2025 -TIMEWorld’s Top GreenTech companies of 2025](https://time.com/collection/worlds-top-greentech-companies-of-2025/)
+  [1](/in-the-press#list)
+  [3](/in-the-press/page/3#list)
+  [4](/in-the-press/page/4#list)
+  [6](/in-the-press/page/6#list)
+  [7](/in-the-press/page/7#list)
+  [10](/in-the-press/page/10#list)
+  [Carbon management](/carbon-management)
+  [Supplier Emissions](/supply-chain-emissions)
+  [Sustainability Reporting](/sustainability-reporting)
+  [Decarbonization Strategy](/decarbonization-strategy)
+  [Enterprise](/enterprise)
+  [Midmarket](/midmarket)
+  [Financial institutions](/financial-institutions)
+  [Sweep Starter](https://www2.sweep.net/starter-package)
+  [Platform](/platform)
+  [AI](https://www.sweep.net/platform/ai)
+  [Blog](/blog)
+  [Events](/events)
+  [Newsroom](/newsroom)
+  [for Compliance](/sustainability-works-for-compliance)
+  [for Market Advantage](/sustainability-works-for-market-advantage)
+  [for Growth](/sustainability-works-for-growth)
+  [for Cost Savings](/sustainability-works-for-cost-savings)
+  [for Risk Reduction](/sustainability-works-for-risk-reduction)
+  [California SB 253](/sb-253 )
+  [CSRD](/csrd )
+  [ISSB](/issb )
+  [UK SRS](/uk-srs)
+  [CDP](/cdp)
+  [Consumer goods](/industry/consumer-goods)
+  [Retail](/industry/retail)
+  [Media & Telecoms](/industry/media-telecoms)
+  [Energy, utilities, oil & gas](/industry/energy-oil-and-gas)
+  [Grocery](/industry/grocery)
+  [Manufacturing](/industry/manufacturing)
+  [Professional services](/industry/services)
+  [Healthcare](/industry/healthcare)
+  [About us](/about)
+  [Customers](/customers)
+  [Partners](/partners)
+  [Press](https://sweepnet.notion.site/Sweep-media-kit-2025-170f1c3c643c802c8d98d8a5833dc107)
+  [Contact](/contact)
+  [Careers](https://sweep.teamtailor.com/)
+  [Legal](/company/terms)
+  [Linkedin](https://www.linkedin.com/company/sweeptheplanet/about/)
+  [YouTube](https://www.youtube.com/@SweepThePlanet)
+  [Instagram](https://www.instagram.com/sweeptheplanet/)
+  [System](https://status.sweep.net/)
+  [Security](https://trust.sweep.net/)
+  [Sweep vs Workiva](/workiva-vs-sweep)
+  [Sweep vs Watershed](/watershed-vs-sweep)
+  [Sweep vs Greenly](/greenly-vs-sweep)
+  [Sweep vs Persefoni](/persefoni-vs-sweep)
+  [Sweep vs Salesforce Net Zero Cloud](/netzerocloud-vs-sweep)
+  [Sweep vs Normative](/normative-vs-sweep)
+
+
+## Images
+
+
+  ![](/_astro/newsroom_top_1MmMkt.webp)
+  ![](/_astro/Group_1rOUQL.svg)
+  ![](/_astro/Frame_ZrUz7Q.svg)
+  ![](/_astro/csr_WHITE1_Z1Jryw.svg)
+  ![](/_astro/LFT_2025white_ZXsvVq.webp)
